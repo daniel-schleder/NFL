@@ -1,762 +1,762 @@
 Pos,Player,Age,Yrs,GS,Summary of Player Stats,Drafted (tm/rnd/yr),TeamCode,OriginalTable
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,C.J. Stroud*,22.0,Rook,15.0,"319 for 499, 4,108 yards, 23 td, 5 int, & 39 rushes for 167 yards and 3 td",,2023_ROSTER.HTM,Table_1
-RB,Devin Singletary,26.0,4,10.0,"216 rushes for 898 yards, 4 td, & 30 catches for 193 yards and 0 td",,2023_ROSTER.HTM,Table_1
-FB,Andrew Beck,27.0,4,12.0,"5 rushes for 3 yards, 1 td, & 11 catches for 55 yards and 2 td",,2023_ROSTER.HTM,Table_1
-WR,Nico Collins,24.0,2,10.0,"80 catches for 1,297 yards, 8 td, & 1 rush for 7 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Robert Woods,31.0,10,11.0,"40 catches for 426 yards, 1 td, & 1 rush for 7 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Dalton Schultz,27.0,5,8.0,"59 catches for 635 yards, 5 td",,2023_ROSTER.HTM,Table_1
-LT,Laremy Tunsil*,29.0,7,14.0,,,2023_ROSTER.HTM,Table_1
-LG,Tytus Howard,27.0,4,7.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-C,Michael Deiter,27.0,4,10.0,,,2023_ROSTER.HTM,Table_1
-RG,Shaq Mason,30.0,8,17.0,,,2023_ROSTER.HTM,Table_1
-RT,George Fant,31.0,7,13.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Will Anderson*,22.0,Rook,13.0,"7.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,Maliek Collins,28.0,7,16.0,"5.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,Sheldon Rankins,29.0,7,15.0,"6.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDE,Jonathan Greenard,26.0,3,15.0,"12.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Denzel Perryman,31.0,8,11.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Blake Cashman,27.0,4,13.0,"2.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RLB,Henry To'oTo'o,22.0,Rook,6.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Steven Nelson,30.0,8,16.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Derek Stingley Jr.,22.0,1,11.0,"0.0 sacks, 5 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Jimmie Ward,32.0,9,10.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Jalen Pitre,24.0,1,15.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Justin Fields,24.0,2,13.0,"227 for 370, 2,562 yards, 16 td, 9 int, & 124 rushes for 657 yards and 4 td",,2023_ROSTER.HTM,Table_1
-RB,Khalil Herbert,25.0,2,9.0,"132 rushes for 611 yards, 2 td, & 20 catches for 134 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,Darnell Mooney,26.0,3,14.0,"31 catches for 414 yards, 1 td, & 2 rushes for 5 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,D.J. Moore,26.0,5,17.0,"96 catches for 1,364 yards, 8 td, & 4 rushes for 21 yards and 1 td",,2023_ROSTER.HTM,Table_1
-TE,Cole Kmet,24.0,3,17.0,"73 catches for 719 yards, 6 td, & 3 rushes for 2 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Robert Tonyan,29.0,5,6.0,"11 catches for 112 yards, 0 td",,2023_ROSTER.HTM,Table_1
-LT,Braxton Jones,24.0,1,11.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-LG,Cody Whitehair,31.0,7,11.0,,,2023_ROSTER.HTM,Table_1
-C,Lucas Patrick,30.0,6,15.0,2 fumbles recovered,,2023_ROSTER.HTM,Table_1
-RG,Nate Davis,27.0,4,11.0,,,2023_ROSTER.HTM,Table_1
-RT,Darnell Wright,22.0,Rook,17.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Yannick Ngakoue,28.0,7,13.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,Andrew Billings,28.0,6,17.0,,,2023_ROSTER.HTM,Table_1
-RDT,Justin Jones,27.0,5,17.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Montez Sweat*,27.0,4,9.0,"6.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,T.J. Edwards,27.0,4,17.0,"2.5 sacks, 3 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Tremaine Edmunds,25.0,5,15.0,"0.0 sacks, 4 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RLB,Jack Sanborn,23.0,1,10.0,"1.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Jaylon Johnson*,24.0,3,14.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Tyrique Stevenson,23.0,Rook,16.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Jaquan Brisker,24.0,1,15.0,"1.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Eddie Jackson,30.0,6,12.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Bryce Young,22.0,Rook,16.0,"315 for 527, 2,877 yards, 11 td, 10 int, & 39 rushes for 253 yards and 0 td",,2023_ROSTER.HTM,Table_1
-RB,Chuba Hubbard,24.0,2,12.0,"238 rushes for 902 yards, 5 td, & 39 catches for 233 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,DJ Chark,27.0,5,11.0,"35 catches for 525 yards, 5 td",,2023_ROSTER.HTM,Table_1
-WR,Jonathan Mingo,22.0,Rook,14.0,"43 catches for 418 yards, 0 td",,2023_ROSTER.HTM,Table_1
-WR,Adam Thielen,33.0,9,17.0,"103 catches for 1,014 yards, 4 td, & 1 rush for 6 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Hayden Hurst,30.0,5,8.0,"18 catches for 184 yards, 1 td",,2023_ROSTER.HTM,Table_1
-LT,Ikem Ekwonu,23.0,1,17.0,,,2023_ROSTER.HTM,Table_1
-LG,Chandler Zavala,24.0,Rook,7.0,,,2023_ROSTER.HTM,Table_1
-C,Bradley Bozeman,29.0,5,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Taylor Moton,29.0,6,17.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Derrick Brown*,25.0,3,17.0,"2.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DE,Yetur Gross-Matos,25.0,3,6.0,,,2023_ROSTER.HTM,Table_1
-NT,Shy Tuttle,28.0,4,17.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,DeShawn Williams,31.0,7,10.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Brian Burns,25.0,4,16.0,"8.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LILB,Frankie Luvu,27.0,5,17.0,"5.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Justin Houston,34.0,12,7.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,C.J. Henderson,25.0,3,7.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Donte Jackson,28.0,5,16.0,,,2023_ROSTER.HTM,Table_1
-SS,Xavier Woods,28.0,6,14.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Vonn Bell,29.0,7,13.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Mac Jones,25.0,2.0,11.0,"224 for 345, 2,120 yards, 10 td, 12 int, & 26 rushes for 96 yards and 0 td",,2023_ROSTER.HTM,Table_1
-RB,Rhamondre Stevenson,25.0,2.0,12.0,"156 rushes for 619 yards, 4 td, & 38 catches for 238 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Kendrick Bourne,28.0,6.0,5.0,"37 catches for 406 yards, 4 td, & 1 rush for 4 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,DeVante Parker,30.0,8.0,13.0,"33 catches for 394 yards, 0 td",,2023_ROSTER.HTM,Table_1
-TE,Pharaoh Brown,29.0,6.0,11.0,"13 catches for 208 yards, 1 td",,2023_ROSTER.HTM,Table_1
-TE,Mike Gesicki,28.0,5.0,10.0,"29 catches for 244 yards, 2 td",,2023_ROSTER.HTM,Table_1
-LT,Trent Brown,30.0,8.0,8.0,,,2023_ROSTER.HTM,Table_1
-LG,Cole Strange,25.0,1.0,10.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-C,David Andrews,31.0,8.0,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RT,Michael Onwenu,26.0,3.0,15.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Deatrich Wise Jr.,29.0,6.0,13.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Davon Godchaux,29.0,6.0,17.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDE,Lawrence Guy,33.0,11.0,12.0,,,2023_ROSTER.HTM,Table_1
-LILB,Ja'Whaun Bentley,27.0,5.0,16.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Jahlani Tavai,27.0,4.0,16.0,"1.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Anfernee Jennings,26.0,3.0,14.0,"1.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Jonathan Jones,30.0,7.0,14.0,,,2023_ROSTER.HTM,Table_1
-RCB,J.C. Jackson,28.0,5.0,6.0,,,2023_ROSTER.HTM,Table_1
-SS,Jabrill Peppers,28.0,6.0,15.0,"1.0 sacks, 2 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Kyle Dugger,27.0,3.0,17.0,"1.5 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DB,Jalen Mills,29.0,7.0,8.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Jared Goff,29.0,7,17.0,"407 for 605, 4,575 yards, 30 td, 12 int, & 32 rushes for 21 yards and 2 td",,2023_ROSTER.HTM,Table_1
-RB,Jahmyr Gibbs*,21.0,Rook,3.0,"182 rushes for 945 yards, 10 td, & 52 catches for 316 yards and 1 td",,2023_ROSTER.HTM,Table_1
-RB,David Montgomery,26.0,4,14.0,"219 rushes for 1,015 yards, 13 td, & 16 catches for 117 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Josh Reynolds,28.0,6,13.0,"40 catches for 608 yards, 5 td",,2023_ROSTER.HTM,Table_1
-WR,Amon-Ra St. Brown*+,24.0,2,16.0,"119 catches for 1,515 yards, 10 td, & 4 rushes for 24 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Jameson Williams,22.0,1,10.0,"24 catches for 354 yards, 2 td, & 3 rushes for 29 yards and 1 td",,2023_ROSTER.HTM,Table_1
-TE,Sam LaPorta*,22.0,Rook,14.0,"86 catches for 889 yards, 10 td, & 1 rush for 4 yards and 0 td",,2023_ROSTER.HTM,Table_1
-LT,Taylor Decker,29.0,7,15.0,,,2023_ROSTER.HTM,Table_1
-LG,Jonah Jackson,26.0,3,12.0,,,2023_ROSTER.HTM,Table_1
-C,Frank Ragnow*,27.0,5,15.0,,,2023_ROSTER.HTM,Table_1
-RG,Graham Glasgow,31.0,7,15.0,,,2023_ROSTER.HTM,Table_1
-RT,Penei Sewell*+,23.0,2,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,John Cominsky,28.0,4,11.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,Alim McNeill,23.0,2,13.0,"5.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,Benito Jones,26.0,3,15.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Aidan Hutchinson*,23.0,1,17.0,"11.5 sacks, 1 interception, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Jack Campbell,23.0,Rook,12.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Derrick Barnes,24.0,2,13.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RLB,Alex Anzalone,29.0,6,16.0,"3.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Cameron Sutton,28.0,6,17.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Jerry Jacobs,26.0,2,12.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Tracy Walker,28.0,5,6.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Kerby Joseph,23.0,1,15.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Daniel Jones,26.0,4,6.0,"108 for 160, 909 yards, 2 td, 6 int, & 40 rushes for 206 yards and 1 td",,2023_ROSTER.HTM,Table_1
-RB,Saquon Barkley,26.0,5,14.0,"247 rushes for 962 yards, 6 td, & 41 catches for 280 yards and 4 td",,2023_ROSTER.HTM,Table_1
-WR,Jalin Hyatt,22.0,Rook,7.0,"23 catches for 373 yards, 0 td",,2023_ROSTER.HTM,Table_1
-WR,Wan'Dale Robinson,22.0,1,8.0,"60 catches for 525 yards, 1 td, & 9 rushes for 87 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,Darius Slayton,26.0,4,13.0,"50 catches for 770 yards, 4 td",,2023_ROSTER.HTM,Table_1
-TE,Daniel Bellinger,23.0,1,13.0,"25 catches for 255 yards, 0 td",,2023_ROSTER.HTM,Table_1
-TE,Darren Waller,31.0,8,11.0,"52 catches for 552 yards, 1 td",,2023_ROSTER.HTM,Table_1
-LT,Andrew Thomas,24.0,3,10.0,,,2023_ROSTER.HTM,Table_1
-LG,Justin Pugh,33.0,10,12.0,,,2023_ROSTER.HTM,Table_1
-C,John Michael Schmitz,24.0,Rook,13.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RG,Ben Bredeson,25.0,3,16.0,,,2023_ROSTER.HTM,Table_1
-RT,Tyre Phillips,26.0,3,9.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Dexter Lawrence*,26.0,4,16.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Leonard Williams,29.0,8,7.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,A'Shawn Robinson,28.0,7,13.0,,,2023_ROSTER.HTM,Table_1
-LOLB,Jihad Ward,29.0,7,9.0,"5.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LILB,Bobby Okereke,27.0,4,17.0,"2.5 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Micah McFadden,23.0,1,14.0,"1.0 sacks, 1 interception, 4 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Kayvon Thibodeaux,23.0,1,17.0,"11.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Adoree' Jackson,28.0,6,14.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Deonte Banks,22.0,Rook,15.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Jason Pinnock,24.0,2,16.0,"2.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Xavier McKinney,25.0,3,17.0,"0.5 sacks, 3 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Desmond Ridder,24.0,1,13.0,"249 for 388, 2,836 yards, 12 td, 12 int, & 53 rushes for 193 yards and 5 td",,2023_ROSTER.HTM,Table_1
-RB,Tyler Allgeier,23.0,1,3.0,"186 rushes for 683 yards, 4 td, & 18 catches for 193 yards and 1 td",,2023_ROSTER.HTM,Table_1
-RB,Bijan Robinson,21.0,Rook,16.0,"214 rushes for 976 yards, 4 td, & 58 catches for 487 yards and 4 td",,2023_ROSTER.HTM,Table_1
-WR,Drake London,22.0,1,16.0,"69 catches for 905 yards, 2 td",,2023_ROSTER.HTM,Table_1
-TE,Kyle Pitts,23.0,2,15.0,"53 catches for 667 yards, 3 td, & 1 rush for -4 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Jonnu Smith,28.0,6,6.0,"50 catches for 582 yards, 3 td, & 1 rush for yards and 0 td",,2023_ROSTER.HTM,Table_1
-LT,Jake Matthews,31.0,9,17.0,,,2023_ROSTER.HTM,Table_1
-LG,Matthew Bergeron,23.0,Rook,17.0,,,2023_ROSTER.HTM,Table_1
-C,Drew Dalman,25.0,2,14.0,,,2023_ROSTER.HTM,Table_1
-RT,Kaleb McGary,28.0,4,14.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Bud Dupree,30.0,8,16.0,"6.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,Grady Jarrett,30.0,8,8.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,David Onyemata,31.0,7,14.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Calais Campbell,37.0,15,17.0,"6.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LLB,Kaden Elliss,28.0,4,17.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Nathan Landman,25.0,1,14.0,"2.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RLB,Arnold Ebiketie,24.0,1,6.0,"6.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,AJ Terrell,25.0,3,17.0,,,2023_ROSTER.HTM,Table_1
-RCB,Jeff Okudah,24.0,3,9.0,,,2023_ROSTER.HTM,Table_1
-SS,Jessie Bates III*,26.0,5,17.0,"0.0 sacks, 6 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Richie Grant,26.0,2,15.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Tua Tagovailoa*,25.0,3.0,17.0,"388 for 560, 4,624 yards, 29 td, 14 int, & 35 rushes for 74 yards and 0 td",,2023_ROSTER.HTM,Table_1
-RB,Raheem Mostert*,31.0,8.0,15.0,"209 rushes for 1,012 yards, 18 td, & 25 catches for 175 yards and 3 td",,2023_ROSTER.HTM,Table_1
-FB,Alec Ingold*,27.0,4.0,13.0,"2 rushes for yards, 0 td, & 13 catches for 119 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Tyreek Hill*+,29.0,7.0,16.0,"119 catches for 1,799 yards, 13 td, & 6 rushes for 15 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Jaylen Waddle,25.0,2.0,14.0,"72 catches for 1,014 yards, 4 td, & 3 rushes for 12 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Durham Smythe,28.0,5.0,14.0,"35 catches for 366 yards, 0 td",,2023_ROSTER.HTM,Table_1
-LT,Terron Armstead*,32.0,10.0,10.0,,,2023_ROSTER.HTM,Table_1
-LG,Lester Cotton,27.0,4.0,8.0,,,2023_ROSTER.HTM,Table_1
-C,Connor Williams,26.0,5.0,9.0,,,2023_ROSTER.HTM,Table_1
-RG,Robert Hunt,27.0,3.0,10.0,,,2023_ROSTER.HTM,Table_1
-RT,Austin Jackson,24.0,3.0,16.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Christian Wilkins,28.0,4.0,17.0,"9.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Raekwon Davis,26.0,3.0,7.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Zach Sieler,28.0,5.0,17.0,"10.0 sacks, 1 interception, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Andrew Van Ginkel,28.0,4.0,11.0,"6.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LILB,Jerome Baker,27.0,5.0,12.0,"1.5 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,David Long,27.0,4.0,17.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Bradley Chubb,27.0,5.0,16.0,"11.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Xavien Howard,30.0,7.0,13.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Kader Kohou,25.0,1.0,16.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-SS,Jevon Holland,23.0,2.0,12.0,"0.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,DeShon Elliott,26.0,4.0,15.0,"0.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Kenny Pickett,25.0,1,12.0,"201 for 324, 2,070 yards, 6 td, 4 int, & 42 rushes for 54 yards and 1 td",,2023_ROSTER.HTM,Table_1
-RB,Najee Harris,25.0,2,17.0,"255 rushes for 1,035 yards, 8 td, & 29 catches for 170 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Diontae Johnson,27.0,4,11.0,"51 catches for 717 yards, 5 td",,2023_ROSTER.HTM,Table_1
-WR,George Pickens,22.0,1,16.0,"63 catches for 1,140 yards, 5 td, & 3 rushes for 18 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Allen Robinson,30.0,9,17.0,"34 catches for 280 yards, 0 td",,2023_ROSTER.HTM,Table_1
-TE,Pat Freiermuth,25.0,2,9.0,"32 catches for 308 yards, 2 td",,2023_ROSTER.HTM,Table_1
-LT,Dan Moore,25.0,2,16.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-LG,Isaac Seumalo,30.0,7,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-C,Mason Cole,27.0,5,17.0,,,2023_ROSTER.HTM,Table_1
-RG,James Daniels,26.0,5,15.0,,,2023_ROSTER.HTM,Table_1
-RT,Broderick Jones,22.0,Rook,11.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Cameron Heyward,34.0,12,11.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Montravius Adams,28.0,6,8.0,,,2023_ROSTER.HTM,Table_1
-RDE,Larry Ogunjobi,29.0,6,17.0,"3.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,T.J. Watt*+,29.0,6,17.0,"19.0 sacks, 1 interception, 3 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LILB,Cole Holcomb,27.0,4,8.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RILB,Elandon Roberts,29.0,7,15.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Alex Highsmith,26.0,3,17.0,"7.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Patrick Peterson,33.0,12,16.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Joey Porter Jr.,23.0,Rook,11.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Keanu Neal,28.0,7,8.0,"0.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Minkah Fitzpatrick*,27.0,5,10.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Jalen Hurts*,25.0,3.0,17.0,"352 for 538, 3,858 yards, 23 td, 15 int, & 157 rushes for 605 yards and 15 td",,2023_ROSTER.HTM,Table_1
-RB,D'Andre Swift*,24.0,3.0,15.0,"229 rushes for 1,049 yards, 5 td, & 39 catches for 214 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,A.J. Brown*,26.0,4.0,17.0,"106 catches for 1,456 yards, 7 td",,2023_ROSTER.HTM,Table_1
-WR,DeVonta Smith,25.0,2.0,16.0,"81 catches for 1,066 yards, 7 td",,2023_ROSTER.HTM,Table_1
-TE,Dallas Goedert,28.0,5.0,14.0,"59 catches for 592 yards, 3 td, & 1 rush for 1 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Jack Stoll,25.0,2.0,10.0,"5 catches for 38 yards, 0 td",,2023_ROSTER.HTM,Table_1
-LT,Jordan Mailata,26.0,3.0,17.0,,,2023_ROSTER.HTM,Table_1
-LG,Landon Dickerson*,25.0,2.0,16.0,,,2023_ROSTER.HTM,Table_1
-C,Jason Kelce*+,36.0,12.0,17.0,,,2023_ROSTER.HTM,Table_1
-RG,Cam Jurgens,24.0,1.0,11.0,,,2023_ROSTER.HTM,Table_1
-RT,Lane Johnson*,33.0,10.0,16.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Milton Williams,24.0,2.0,10.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,Fletcher Cox,33.0,11.0,15.0,"5.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDT,Jordan Davis,23.0,1.0,17.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Josh Sweat,26.0,5.0,17.0,"6.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Haason Reddick*,29.0,6.0,17.0,"11.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Nicholas Morrow,28.0,6.0,12.0,"3.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RLB,Zach Cunningham,29.0,6.0,10.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Darius Slay*,32.0,10.0,12.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,James Bradberry,30.0,7.0,16.0,"0.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-SS,Kevin Byard,30.0,7.0,10.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Reed Blankenship,24.0,1.0,15.0,"0.0 sacks, 3 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Lamar Jackson*+,26.0,5,16.0,"307 for 457, 3,678 yards, 24 td, 7 int, & 148 rushes for 821 yards and 5 td",,2023_ROSTER.HTM,Table_1
-RB,Gus Edwards,28.0,5,9.0,"198 rushes for 810 yards, 13 td, & 12 catches for 180 yards and 0 td",,2023_ROSTER.HTM,Table_1
-FB,Patrick Ricard,29.0,6,9.0,"0 rushes for yards, 0 td, & 5 catches for 52 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,Rashod Bateman,24.0,2,12.0,"32 catches for 367 yards, 1 td, & 1 rush for 18 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Zay Flowers,23.0,Rook,16.0,"77 catches for 858 yards, 5 td, & 8 rushes for 56 yards and 1 td",,2023_ROSTER.HTM,Table_1
-TE,Mark Andrews,28.0,5,9.0,"45 catches for 544 yards, 6 td, & 1 rush for yards and 0 td",,2023_ROSTER.HTM,Table_1
-LT,Ronnie Stanley,29.0,7,13.0,,,2023_ROSTER.HTM,Table_1
-LG,John Simpson,26.0,3,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-C,Tyler Linderbaum*,23.0,1,15.0,,,2023_ROSTER.HTM,Table_1
-RG,Kevin Zeitler*,33.0,11,15.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RT,Morgan Moses,32.0,9,14.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Justin Madubuike*,26.0,3,17.0,"13.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DT,Broderick Washington Jr.,27.0,3,5.0,,,2023_ROSTER.HTM,Table_1
-NT,Michael Pierce,31.0,7,17.0,"1.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Malik Harrison,25.0,3,8.0,,,2023_ROSTER.HTM,Table_1
-LILB,Roquan Smith*+,26.0,5,16.0,"1.5 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Patrick Queen*,24.0,3,17.0,"3.5 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Jadeveon Clowney,30.0,9,15.0,"9.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Marlon Humphrey,27.0,6,10.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Brandon Stephens,26.0,2,16.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Kyle Hamilton*+,22.0,1,15.0,"3.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Marcus Williams,27.0,6,11.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Sam Howell,23.0,1.0,17.0,"388 for 612, 3,946 yards, 21 td, 21 int, & 48 rushes for 263 yards and 5 td",,2023_ROSTER.HTM,Table_1
-RB,Brian Robinson Jr.,24.0,1.0,15.0,"178 rushes for 733 yards, 5 td, & 36 catches for 368 yards and 4 td",,2023_ROSTER.HTM,Table_1
-WR,Jahan Dotson,23.0,1.0,16.0,"49 catches for 518 yards, 4 td",,2023_ROSTER.HTM,Table_1
-WR,Terry McLaurin,28.0,4.0,17.0,"79 catches for 1,002 yards, 4 td",,2023_ROSTER.HTM,Table_1
-WR,Curtis Samuel,27.0,6.0,13.0,"62 catches for 613 yards, 4 td, & 7 rushes for 39 yards and 1 td",,2023_ROSTER.HTM,Table_1
-TE,Logan Thomas,32.0,9.0,15.0,"55 catches for 496 yards, 4 td, & 1 rush for 2 yards and 0 td",,2023_ROSTER.HTM,Table_1
-LT,Charles Leno Jr.,32.0,9.0,13.0,,,2023_ROSTER.HTM,Table_1
-LG,Saahdiq Charles,24.0,3.0,10.0,,,2023_ROSTER.HTM,Table_1
-C,Nick Gates,28.0,4.0,10.0,,,2023_ROSTER.HTM,Table_1
-RG,Samuel Cosmi,24.0,2.0,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Andrew Wylie,29.0,5.0,15.0,2 fumbles recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Montez Sweat*,27.0,4.0,8.0,"6.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,Daron Payne,26.0,5.0,17.0,"4.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,Jonathan Allen,28.0,6.0,16.0,"5.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,James Smith-Williams,26.0,3.0,7.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Jamin Davis,25.0,2.0,13.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Cody Barton,27.0,4.0,13.0,"0.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RLB,Khaleke Hudson,26.0,3.0,8.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Benjamin St-Juste,26.0,2.0,16.0,"1.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Kendall Fuller,28.0,7.0,15.0,"0.0 sacks, 2 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Kamren Curl,24.0,3.0,16.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Percy Butler,23.0,1.0,13.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Zach Wilson,24.0,2,11.0,"221 for 368, 2,271 yards, 8 td, 7 int, & 36 rushes for 211 yards and 0 td",,2023_ROSTER.HTM,Table_1
-RB,Breece Hall,22.0,1,16.0,"223 rushes for 994 yards, 5 td, & 76 catches for 591 yards and 4 td",,2023_ROSTER.HTM,Table_1
-WR,Allen Lazard,28.0,5,12.0,"23 catches for 311 yards, 1 td",,2023_ROSTER.HTM,Table_1
-WR,Garrett Wilson,23.0,1,17.0,"95 catches for 1,042 yards, 3 td, & 4 rushes for yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Tyler Conklin,28.0,5,12.0,"61 catches for 621 yards, 0 td, & 1 rush for yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,C.J. Uzomah,30.0,8,8.0,"8 catches for 58 yards, 1 td",,2023_ROSTER.HTM,Table_1
-LT,Mekhi Becton,24.0,3,16.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-LG,Laken Tomlinson,31.0,8,17.0,2 fumbles recovered,,2023_ROSTER.HTM,Table_1
-C,Joe Tippmann,22.0,Rook,14.0,,,2023_ROSTER.HTM,Table_1
-RG,Jake Hanson,26.0,2,4.0,,,2023_ROSTER.HTM,Table_1
-RT,Max Mitchell,24.0,1,7.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Quinton Jefferson,30.0,7,14.0,"6.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-NT,Quinnen Williams*,26.0,4,17.0,"5.5 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDE,John Franklin-Myers,27.0,5,17.0,"3.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Jermaine Johnson II*,24.0,1,17.0,"7.5 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LILB,C.J. Mosley,31.0,9,17.0,"0.5 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RILB,Quincy Williams+,27.0,4,16.0,"2.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Sauce Gardner*+,23.0,1,16.0,,,2023_ROSTER.HTM,Table_1
-RCB,D.J. Reed,27.0,5,15.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Jordan Whitehead,26.0,5,17.0,"0.5 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Tony Adams,24.0,1,15.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DB,Michael Carter,24.0,2,7.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Josh Allen,27.0,5,17.0,"385 for 579, 4,306 yards, 29 td, 18 int, & 111 rushes for 524 yards and 15 td",,2023_ROSTER.HTM,Table_1
-RB,James Cook*,24.0,1,13.0,"237 rushes for 1,122 yards, 2 td, & 44 catches for 445 yards and 4 td",,2023_ROSTER.HTM,Table_1
-WR,Gabriel Davis,24.0,3,17.0,"45 catches for 746 yards, 7 td, & 1 rush for -2 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Stefon Diggs*,30.0,8,17.0,"107 catches for 1,183 yards, 8 td, & 1 rush for 5 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Khalil Shakir,23.0,1,10.0,"39 catches for 611 yards, 2 td, & 1 rush for 10 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Dawson Knox,27.0,4,11.0,"22 catches for 186 yards, 2 td",,2023_ROSTER.HTM,Table_1
-LT,Dion Dawkins*,29.0,6,17.0,,,2023_ROSTER.HTM,Table_1
-LG,Connor McGovern,26.0,3,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-C,Mitch Morse,31.0,8,17.0,,,2023_ROSTER.HTM,Table_1
-RG,O'Cyrus Torrence,23.0,Rook,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RT,Spencer Brown,25.0,2,17.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Gregory Rousseau,23.0,2,16.0,"5.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LDT,Jordan Phillips,31.0,8,9.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,Ed Oliver,26.0,4,16.0,"9.5 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Leonard Floyd,31.0,7,16.0,"10.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Tyrel Dodson,25.0,3,10.0,"2.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-MLB,Terrel Bernard,24.0,1,17.0,"6.5 sacks, 3 interceptions, 3 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Rasul Douglas,28.0,6,8.0,"1.0 sacks, 4 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Christian Benford,23.0,1,14.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-SS,Jordan Poyer,32.0,10,16.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Micah Hyde,33.0,10,14.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DB,Taron Johnson,27.0,5,17.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Aidan O'Connell,25.0,Rook,10.0,"213 for 343, 2,218 yards, 12 td, 7 int, & 17 rushes for 11 yards and 1 td",,2023_ROSTER.HTM,Table_1
-RB,Josh Jacobs,25.0,4,13.0,"233 rushes for 805 yards, 6 td, & 37 catches for 296 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Davante Adams,31.0,9,17.0,"103 catches for 1,144 yards, 8 td",,2023_ROSTER.HTM,Table_1
-WR,Jakobi Meyers,27.0,4,16.0,"71 catches for 807 yards, 8 td, & 4 rushes for 24 yards and 2 td",,2023_ROSTER.HTM,Table_1
-TE,Austin Hooper,29.0,7,9.0,"25 catches for 234 yards, 0 td",,2023_ROSTER.HTM,Table_1
-TE,Michael Mayer,22.0,Rook,12.0,"27 catches for 304 yards, 2 td",,2023_ROSTER.HTM,Table_1
-LT,Kolton Miller,28.0,5,11.0,,,2023_ROSTER.HTM,Table_1
-LG,Dylan Parham,24.0,1,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-C,Andre James,26.0,4,16.0,,,2023_ROSTER.HTM,Table_1
-RG,Greg Van Roten,33.0,11,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Jermaine Eluemunor,29.0,6,14.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Maxx Crosby*,26.0,4,17.0,"14.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LDT,Bilal Nichols,27.0,5,17.0,"1.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDT,John Jenkins,34.0,10,17.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDE,Malcolm Koonce,25.0,2,11.0,"8.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Robert Spillane,28.0,5,17.0,"3.5 sacks, 3 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-MLB,Divine Deablo,25.0,2,15.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Amik Robertson,25.0,3,12.0,"1.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Marcus Peters,30.0,8,12.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Marcus Epps,27.0,4,17.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Tre'von Moehrig,24.0,2,17.0,"2.0 sacks, 3 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DB,Jakorian Bennett,23.0,Rook,4.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Kirk Cousins,35.0,11,8.0,"216 for 311, 2,331 yards, 18 td, 5 int, & 14 rushes for 25 yards and 0 td",,2023_ROSTER.HTM,Table_1
-RB,Alexander Mattison,25.0,4,13.0,"180 rushes for 700 yards, 0 td, & 30 catches for 192 yards and 3 td",,2023_ROSTER.HTM,Table_1
-WR,Jordan Addison,21.0,Rook,14.0,"70 catches for 911 yards, 10 td, & 1 rush for 2 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Justin Jefferson,24.0,3,9.0,"68 catches for 1,074 yards, 5 td, & 1 rush for -12 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,K.J. Osborn,26.0,3,12.0,"48 catches for 540 yards, 3 td",,2023_ROSTER.HTM,Table_1
-TE,T.J. Hockenson,26.0,4,11.0,"95 catches for 960 yards, 5 td",,2023_ROSTER.HTM,Table_1
-LT,Christian Darrisaw,24.0,2,15.0,,,2023_ROSTER.HTM,Table_1
-LG,Dalton Risner,28.0,4,11.0,,,2023_ROSTER.HTM,Table_1
-C,Garrett Bradbury,28.0,4,14.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RG,Ed Ingram,24.0,1,15.0,,,2023_ROSTER.HTM,Table_1
-RT,Brian O'Neill,28.0,5,14.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-NT,Harrison Phillips,27.0,5,17.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Jonathan Bullard,30.0,7,14.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Danielle Hunter*,29.0,8,17.0,"16.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LILB,Jordan Hicks,31.0,8,13.0,"1.0 sacks, 1 interception, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Ivan Pace,23.0,Rook,11.0,"2.5 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-ROLB,D.J. Wonnum,26.0,3,14.0,"8.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Akayleb Evans,24.0,1,15.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Byron Murphy,25.0,4,14.0,"0.0 sacks, 3 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-SS,Camryn Bynum,25.0,2,17.0,"0.5 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Harrison Smith,34.0,11,17.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DB,Josh Metellus,25.0,3,17.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Jordan Love,25.0,2,17.0,"372 for 579, 4,159 yards, 32 td, 11 int, & 50 rushes for 247 yards and 4 td",,2023_ROSTER.HTM,Table_1
-RB,Aaron Jones,29.0,6,11.0,"142 rushes for 656 yards, 2 td, & 30 catches for 233 yards and 1 td",,2023_ROSTER.HTM,Table_1
-LH,Elgton Jenkins,28.0,4,15.0,,,2023_ROSTER.HTM,Table_1
-WR,Romeo Doubs,23.0,1,16.0,"59 catches for 674 yards, 8 td",,2023_ROSTER.HTM,Table_1
-WR,Jayden Reed,23.0,Rook,13.0,"64 catches for 793 yards, 8 td, & 11 rushes for 119 yards and 2 td",,2023_ROSTER.HTM,Table_1
-WR,Christian Watson,24.0,1,9.0,"28 catches for 422 yards, 5 td, & 4 rushes for 11 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Luke Musgrave,23.0,Rook,9.0,"34 catches for 352 yards, 1 td",,2023_ROSTER.HTM,Table_1
-LT,Rasheed Walker,23.0,1,15.0,,,2023_ROSTER.HTM,Table_1
-C,Josh Myers,25.0,2,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Zach Tom,24.0,1,17.0,2 fumbles recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Kenny Clark*,28.0,7,17.0,"7.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Tedarrell Slaton,26.0,2,17.0,,,2023_ROSTER.HTM,Table_1
-LOLB,Preston Smith,31.0,8,17.0,"8.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LILB,De'Vondre Campbell,30.0,7,11.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RILB,Quay Walker,23.0,1,14.0,"2.5 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Rashan Gary,26.0,4,13.0,"9.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Keisean Nixon+,26.0,4,13.0,"0.5 sacks, 1 interception, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Carrington Valentine,22.0,Rook,12.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-SS,Jonathan Owens,28.0,4,11.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Rudy Ford,29.0,6,9.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-DB,Corey Ballentine,27.0,4,6.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Deshaun Watson,28.0,6,6.0,"105 for 171, 1,115 yards, 7 td, 4 int, & 26 rushes for 142 yards and 1 td",,2023_ROSTER.HTM,Table_1
-RB,Jerome Ford,24.0,1,12.0,"204 rushes for 813 yards, 4 td, & 44 catches for 319 yards and 5 td",,2023_ROSTER.HTM,Table_1
-WR,Amari Cooper*,29.0,8,15.0,"72 catches for 1,250 yards, 5 td",,2023_ROSTER.HTM,Table_1
-WR,Elijah Moore,23.0,2,12.0,"59 catches for 640 yards, 2 td, & 9 rushes for 11 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Harrison Bryant,25.0,3,9.0,"13 catches for 81 yards, 3 td, & 5 rushes for 8 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,David Njoku*,27.0,6,16.0,"81 catches for 882 yards, 6 td",,2023_ROSTER.HTM,Table_1
-LT,Geron Christian,27.0,5,9.0,,,2023_ROSTER.HTM,Table_1
-LG,Joel Bitonio*,32.0,9,15.0,,,2023_ROSTER.HTM,Table_1
-C,Ethan Pocic,28.0,6,15.0,,,2023_ROSTER.HTM,Table_1
-RG,Wyatt Teller*,29.0,5,16.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RT,Dawand Jones,22.0,Rook,9.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Myles Garrett*+,28.0,6,16.0,"14.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LDT,Dalvin Tomlinson,29.0,6,16.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,Jordan Elliott,26.0,3,14.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Za'Darius Smith,31.0,8,16.0,"5.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Jeremiah Owusu-Koramoah*,24.0,2,13.0,"3.5 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Anthony Walker,28.0,6,12.0,"0.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RLB,Sione Takitaki,28.0,4,7.0,"2.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Greg Newsome II,23.0,2,13.0,"0.5 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Denzel Ward*,26.0,5,11.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Grant Delpit,25.0,2,13.0,"1.5 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Juan Thornhill,28.0,4,11.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Baker Mayfield*,28.0,5,17.0,"364 for 566, 4,044 yards, 28 td, 10 int, & 62 rushes for 163 yards and 1 td",,2023_ROSTER.HTM,Table_1
-RB,Rachaad White,24.0,1,17.0,"272 rushes for 990 yards, 6 td, & 64 catches for 549 yards and 3 td",,2023_ROSTER.HTM,Table_1
-WR,Mike Evans*,30.0,9,17.0,"79 catches for 1,255 yards, 13 td",,2023_ROSTER.HTM,Table_1
-WR,Chris Godwin,27.0,6,17.0,"83 catches for 1,024 yards, 2 td, & 4 rushes for 38 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,Trey Palmer,22.0,Rook,8.0,"39 catches for 385 yards, 3 td, & 3 rushes for 22 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Cade Otton,24.0,1,17.0,"47 catches for 455 yards, 4 td",,2023_ROSTER.HTM,Table_1
-LT,Tristan Wirfs*,24.0,3,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-LG,Aaron Stinnie,29.0,5,11.0,,,2023_ROSTER.HTM,Table_1
-C,Robert Hainsey,25.0,2,17.0,2 fumbles recovered,,2023_ROSTER.HTM,Table_1
-RG,Cody Mauch,24.0,Rook,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Luke Goedeke,25.0,1,17.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Calijah Kancey,22.0,Rook,14.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Vita Vea,28.0,5,15.0,"5.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Logan Hall,23.0,1,13.0,"0.5 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Shaquil Barrett,31.0,8,16.0,"4.5 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LILB,Devin White,25.0,4,13.0,"2.5 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Lavonte David,33.0,11,15.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Jamel Dean,27.0,4,13.0,"0.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Carlton Davis,27.0,5,12.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Antoine Winfield Jr.+,25.0,3,17.0,"6.0 sacks, 3 interceptions, 4 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Ryan Neal,28.0,5,13.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Joe Burrow,27.0,3,10.0,"244 for 365, 2,309 yards, 15 td, 6 int, & 31 rushes for 88 yards and 0 td",,2023_ROSTER.HTM,Table_1
-RB,Joe Mixon,27.0,6,17.0,"257 rushes for 1,034 yards, 9 td, & 52 catches for 376 yards and 3 td",,2023_ROSTER.HTM,Table_1
-WR,Tyler Boyd,29.0,7,13.0,"67 catches for 667 yards, 2 td, & 2 rushes for 11 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Ja'Marr Chase*,23.0,2,16.0,"100 catches for 1,216 yards, 7 td, & 3 rushes for -6 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Tee Higgins,24.0,3,11.0,"42 catches for 656 yards, 5 td",,2023_ROSTER.HTM,Table_1
-TE,Drew Sample,27.0,4,10.0,"22 catches for 163 yards, 2 td",,2023_ROSTER.HTM,Table_1
-LT,Orlando Brown Jr.,27.0,5,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-LG,Cordell Volson,25.0,1,17.0,,,2023_ROSTER.HTM,Table_1
-C,Ted Karras,30.0,7,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RG,Alex Cappa,28.0,5,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Jonah Williams,26.0,3,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Sam Hubbard,28.0,5,15.0,"6.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,D.J. Reader,29.0,7,14.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDT,B.J. Hill,28.0,5,17.0,"4.5 sacks, 2 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDE,Trey Hendrickson*,29.0,6,17.0,"17.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Logan Wilson,27.0,3,17.0,"1.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Germaine Pratt,27.0,4,17.0,"2.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Cam Taylor-Britt,24.0,1,12.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,DJ Turner,23.0,Rook,12.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-SS,Nick Scott,28.0,4,10.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Daxton Hill,23.0,1,17.0,"1.5 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DB,Mike Hilton,29.0,6,13.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Patrick Mahomes*,28.0,6,16.0,"401 for 597, 4,183 yards, 27 td, 14 int, & 75 rushes for 389 yards and 0 td",,2023_ROSTER.HTM,Table_1
-RB,Isiah Pacheco,24.0,1,13.0,"205 rushes for 935 yards, 7 td, & 44 catches for 244 yards and 2 td",,2023_ROSTER.HTM,Table_1
-WR,Rashee Rice,23.0,Rook,8.0,"79 catches for 938 yards, 7 td, & 1 rush for -3 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Marquez Valdes-Scantling,29.0,5,10.0,"21 catches for 315 yards, 1 td",,2023_ROSTER.HTM,Table_1
-TE,Noah Gray,24.0,2,10.0,"28 catches for 305 yards, 2 td, & 1 rush for 1 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Travis Kelce*,34.0,10,15.0,"93 catches for 984 yards, 5 td",,2023_ROSTER.HTM,Table_1
-LT,Donovan Smith,30.0,8,12.0,,,2023_ROSTER.HTM,Table_1
-LG,Joe Thuney*+,31.0,7,17.0,,,2023_ROSTER.HTM,Table_1
-C,Creed Humphrey*,24.0,2,17.0,,,2023_ROSTER.HTM,Table_1
-RG,Trey Smith,24.0,2,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Jawaan Taylor,26.0,4,17.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,George Karlaftis III,22.0,1,16.0,"10.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,Chris Jones*+,29.0,7,16.0,"10.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,Derrick Nnadi,27.0,5,17.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Michael Danna,26.0,3,16.0,"6.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Willie Gay Jr.,25.0,3,15.0,"1.0 sacks, 1 interception, 3 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Nick Bolton,23.0,2,8.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RLB,Leo Chenal,23.0,1,10.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Trent McDuffie+,23.0,1,16.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,L'Jarius Sneed,26.0,3,16.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-SS,Justin Reid,26.0,5,16.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Bryan Cook,24.0,1,12.0,"0.0 sacks, 1 interception, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Trevor Lawrence,24.0,2,16.0,"370 for 564, 4,016 yards, 21 td, 14 int, & 70 rushes for 339 yards and 4 td",,2023_ROSTER.HTM,Table_1
-RB,Travis Etienne,24.0,1,17.0,"267 rushes for 1,008 yards, 11 td, & 58 catches for 476 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,Christian Kirk,27.0,5,12.0,"57 catches for 787 yards, 3 td, & 1 rush for 6 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Calvin Ridley,29.0,5,17.0,"76 catches for 1,016 yards, 8 td, & 9 rushes for 23 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Evan Engram*,29.0,6,15.0,"114 catches for 963 yards, 4 td",,2023_ROSTER.HTM,Table_1
-TE,Luke Farrell,26.0,2,8.0,"13 catches for 155 yards, 0 td",,2023_ROSTER.HTM,Table_1
-LT,Cam Robinson,28.0,6,9.0,,,2023_ROSTER.HTM,Table_1
-LG,Tyler Shatley,32.0,9,6.0,,,2023_ROSTER.HTM,Table_1
-C,Luke Fortner,25.0,1,17.0,,,2023_ROSTER.HTM,Table_1
-RG,Brandon Scherff,32.0,8,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Anton Harrison,21.0,Rook,17.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Roy Robertson-Harris,30.0,6,17.0,"3.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Folorunso Fatukasi,28.0,5,16.0,,,2023_ROSTER.HTM,Table_1
-RDE,Adam Gotsis,31.0,7,7.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Josh Hines-Allen*,26.0,4,17.0,"17.5 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LILB,Foyesade Oluokun,28.0,5,17.0,"2.5 sacks, 1 interception, 3 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Devin Lloyd,25.0,1,15.0,"0.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Travon Walker,23.0,1,17.0,"10.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Darious Williams,30.0,5,17.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Tyson Campbell,23.0,2,11.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Rayshawn Jenkins,29.0,6,17.0,"1.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Andre Cisco,23.0,2,15.0,"0.5 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Brock Purdy*,24.0,1.0,16.0,"308 for 444, 4,280 yards, 31 td, 11 int, & 39 rushes for 144 yards and 2 td",,2023_ROSTER.HTM,Table_1
-RB,Christian McCaffrey*+,27.0,6.0,16.0,"272 rushes for 1,459 yards, 14 td, & 67 catches for 564 yards and 7 td",,2023_ROSTER.HTM,Table_1
-FB,Kyle Juszczyk*+,32.0,10.0,16.0,"5 rushes for 6 yards, 0 td, & 14 catches for 119 yards and 2 td",,2023_ROSTER.HTM,Table_1
-WR,Brandon Aiyuk,25.0,3.0,16.0,"75 catches for 1,342 yards, 7 td",,2023_ROSTER.HTM,Table_1
-WR,Deebo Samuel,27.0,4.0,15.0,"60 catches for 892 yards, 7 td, & 37 rushes for 225 yards and 5 td",,2023_ROSTER.HTM,Table_1
-TE,George Kittle*+,30.0,6.0,16.0,"65 catches for 1,020 yards, 6 td, & 1 rush for 2 yards and 0 td",,2023_ROSTER.HTM,Table_1
-LT,Trent Williams*+,35.0,13.0,15.0,,,2023_ROSTER.HTM,Table_1
-LG,Aaron Banks,26.0,2.0,14.0,,,2023_ROSTER.HTM,Table_1
-C,Jake Brendel,31.0,7.0,17.0,,,2023_ROSTER.HTM,Table_1
-RG,Spencer Burford,23.0,1.0,13.0,,,2023_ROSTER.HTM,Table_1
-RT,Colton McKivitz,27.0,3.0,17.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Clelin Ferrell,26.0,4.0,17.0,"3.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LDT,Arik Armstead,30.0,8.0,12.0,"5.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,Javon Hargrave*,30.0,7.0,16.0,"7.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Nick Bosa*,26.0,4.0,17.0,"10.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LLB,Ambry Thomas,24.0,2.0,6.0,"0.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-MLB,Fred Warner*+,27.0,5.0,17.0,"2.5 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RLB,Dre Greenlaw,26.0,4.0,15.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Charvarius Ward*,27.0,5.0,17.0,"0.0 sacks, 5 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Deommodore Lenoir,24.0,2.0,17.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Talanoa Hufanga,24.0,2.0,10.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Tashaun Gipson,33.0,11.0,16.0,"1.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Will Levis,24.0,Rook,9.0,"149 for 255, 1,808 yards, 8 td, 4 int, & 25 rushes for 57 yards and 1 td",,2023_ROSTER.HTM,Table_1
-RB,Derrick Henry*,29.0,7,17.0,"280 rushes for 1,167 yards, 12 td, & 28 catches for 214 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Treylon Burks,23.0,1,9.0,"16 catches for 221 yards, 0 td, & 5 rushes for 18 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,DeAndre Hopkins,31.0,10,16.0,"75 catches for 1,057 yards, 7 td, & 2 rushes for 9 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Chigoziem Okonkwo,24.0,1,11.0,"54 catches for 528 yards, 1 td, & 2 rushes for 6 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Trevon Wesco,28.0,4,10.0,"1 catch for 21 yards, 0 td",,2023_ROSTER.HTM,Table_1
-LT,Andre Dillard,28.0,4,10.0,,,2023_ROSTER.HTM,Table_1
-LG,Peter Skoronski,22.0,Rook,14.0,,,2023_ROSTER.HTM,Table_1
-C,Aaron Brewer,26.0,3,17.0,,,2023_ROSTER.HTM,Table_1
-RG,Daniel Brunskill,29.0,4,14.0,,,2023_ROSTER.HTM,Table_1
-RT,Chris Hubbard,32.0,9,9.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Denico Autry,33.0,9,14.0,"11.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,Teair Tart,26.0,3,9.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,Jeffery Simmons,26.0,4,12.0,"5.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDE,Kyle Peko,30.0,7,10.0,,,2023_ROSTER.HTM,Table_1
-LILB,Azeez Al-Shaair,26.0,4,17.0,"2.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RILB,Jack Gibbens,25.0,1,13.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Harold Landry,27.0,5,10.0,"10.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Sean Murphy-Bunting,26.0,4,14.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-SS,K'Von Wallace,26.0,3,7.0,,,2023_ROSTER.HTM,Table_1
-FS,Amani Hooker,25.0,4,13.0,"0.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Geno Smith*,33.0,10,15.0,"323 for 499, 3,624 yards, 20 td, 9 int, & 37 rushes for 155 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,Tyler Lockett,31.0,8,17.0,"79 catches for 894 yards, 5 td",,2023_ROSTER.HTM,Table_1
-WR,D.K. Metcalf*,26.0,4,16.0,"66 catches for 1,114 yards, 8 td",,2023_ROSTER.HTM,Table_1
-TE,Will Dissly,27.0,5,14.0,"17 catches for 172 yards, 1 td",,2023_ROSTER.HTM,Table_1
-TE,Noah Fant,26.0,4,17.0,"32 catches for 414 yards, 0 td",,2023_ROSTER.HTM,Table_1
-LT,Charles Cross,23.0,1,14.0,,,2023_ROSTER.HTM,Table_1
-LG,Damien Lewis,26.0,3,16.0,,,2023_ROSTER.HTM,Table_1
-C,Evan Brown,27.0,4,16.0,,,2023_ROSTER.HTM,Table_1
-RG,Anthony Bradford,22.0,Rook,10.0,,,2023_ROSTER.HTM,Table_1
-RT,Abraham Lucas,25.0,1,6.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Dre'Mont Jones,26.0,4,16.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Jarran Reed,31.0,7,16.0,"7.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDE,Leonard Williams,29.0,8,10.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Uchenna Nwosu,27.0,5,6.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LILB,Bobby Wagner*,33.0,11,16.0,"3.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RILB,Jordyn Brooks,26.0,3,16.0,"4.5 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Boye Mafe,25.0,1,16.0,"9.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Devon Witherspoon*,23.0,Rook,13.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Julian Love*,25.0,4,12.0,"0.0 sacks, 4 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Quandre Diggs,30.0,8,17.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Justin Herbert,25.0,3,13.0,"297 for 456, 3,134 yards, 20 td, 7 int, & 52 rushes for 228 yards and 3 td",,2023_ROSTER.HTM,Table_1
-RB,Austin Ekeler,28.0,6,14.0,"179 rushes for 628 yards, 5 td, & 51 catches for 436 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,Keenan Allen*,31.0,10,13.0,"108 catches for 1,243 yards, 7 td, & 2 rushes for 6 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Quentin Johnston,22.0,Rook,10.0,"38 catches for 431 yards, 2 td, & 3 rushes for 9 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Gerald Everett,29.0,6,12.0,"51 catches for 411 yards, 3 td, & 3 rushes for 10 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Donald Parham,26.0,3,8.0,"27 catches for 285 yards, 4 td",,2023_ROSTER.HTM,Table_1
-LT,Rashawn Slater,24.0,2,17.0,,,2023_ROSTER.HTM,Table_1
-LG,Zion Johnson,24.0,1,15.0,,,2023_ROSTER.HTM,Table_1
-C,Will Clapp,28.0,5,11.0,,,2023_ROSTER.HTM,Table_1
-RG,Jamaree Salyer,23.0,1,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Trey Pipkins,27.0,4,17.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Sebastian Joseph-Day,28.0,4,14.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Nick Williams,33.0,9,6.0,"1.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Austin Johnson,29.0,7,17.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Khalil Mack*,32.0,9,17.0,"17.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LILB,Eric Kendricks,31.0,8,14.0,"3.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Kenneth Murray,25.0,3,15.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Tuli Tuipulotu,21.0,Rook,11.0,"4.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Asante Samuel Jr.,24.0,2,16.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Michael Davis,28.0,6,13.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Alohi Gilman,26.0,3,14.0,"0.0 sacks, 2 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Derwin James,27.0,5,16.0,"2.0 sacks, 1 interception, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Derek Carr,32.0,9.0,17.0,"375 for 548, 3,878 yards, 25 td, 8 int, & 32 rushes for 40 yards and 0 td",,2023_ROSTER.HTM,Table_1
-RB,Alvin Kamara,28.0,6.0,12.0,"180 rushes for 694 yards, 5 td, & 75 catches for 466 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,Chris Olave,23.0,1.0,11.0,"87 catches for 1,123 yards, 5 td",,2023_ROSTER.HTM,Table_1
-WR,Rashid Shaheed*+,25.0,1.0,8.0,"46 catches for 719 yards, 5 td, & 7 rushes for 37 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Juwan Johnson,27.0,3.0,11.0,"37 catches for 368 yards, 4 td",,2023_ROSTER.HTM,Table_1
-TE,Foster Moreau,26.0,4.0,10.0,"21 catches for 193 yards, 1 td",,2023_ROSTER.HTM,Table_1
-LT,Andrus Peat,30.0,8.0,12.0,,,2023_ROSTER.HTM,Table_1
-LG,James Hurst,32.0,9.0,15.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-C,Erik McCoy*,26.0,4.0,17.0,,,2023_ROSTER.HTM,Table_1
-RG,Cesar Ruiz,24.0,3.0,16.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RT,Ryan Ramczyk,29.0,6.0,12.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Cameron Jordan,34.0,12.0,17.0,"2.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LDT,Khalen Saunders,27.0,4.0,17.0,,,2023_ROSTER.HTM,Table_1
-RDT,Nathan Shepherd,30.0,5.0,17.0,"3.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Carl Granderson,27.0,4.0,17.0,"8.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LLB,Pete Werner,24.0,2.0,16.0,"0.5 sacks, 1 interception, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-MLB,Demario Davis*,34.0,11.0,17.0,"6.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Paulson Adebo,24.0,2.0,15.0,"0.0 sacks, 4 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Marshon Lattimore,27.0,6.0,10.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Marcus Maye,30.0,6.0,7.0,"1.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Tyrann Mathieu,31.0,10.0,17.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DB,Alontae Taylor,25.0,1.0,13.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Kyler Murray,26.0,4,8.0,"176 for 268, 1,799 yards, 10 td, 5 int, & 44 rushes for 244 yards and 3 td",,2023_ROSTER.HTM,Table_1
-RB,James Conner,28.0,6,13.0,"208 rushes for 1,040 yards, 7 td, & 27 catches for 165 yards and 2 td",,2023_ROSTER.HTM,Table_1
-WR,Marquise Brown,26.0,4,14.0,"51 catches for 574 yards, 4 td, & 2 rushes for 23 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Rondale Moore,23.0,2,8.0,"40 catches for 352 yards, 1 td, & 28 rushes for 178 yards and 1 td",,2023_ROSTER.HTM,Table_1
-WR,Michael Wilson,23.0,Rook,12.0,"38 catches for 565 yards, 3 td",,2023_ROSTER.HTM,Table_1
-TE,Trey McBride,24.0,1,12.0,"81 catches for 825 yards, 3 td",,2023_ROSTER.HTM,Table_1
-LT,D.J. Humphries,30.0,7,15.0,,,2023_ROSTER.HTM,Table_1
-LG,Elijah Wilkinson,28.0,6,9.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-C,Hjalte Froholdt,27.0,3,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RG,Will Hernandez,28.0,5,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Paris Johnson,22.0,Rook,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Kevin Strong,27.0,4,11.0,"2.5 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-NT,Leki Fotu,25.0,3,9.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Jonathan Ledbetter,26.0,4,12.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Dennis Gardeck,29.0,5,8.0,"6.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LILB,Kyzir White,27.0,5,11.0,"2.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Josh Woods,27.0,4,7.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Zaven Collins,24.0,2,17.0,"3.5 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Antonio Hamilton,30.0,7,9.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Marco Wilson,24.0,2,11.0,,,2023_ROSTER.HTM,Table_1
-SS,Jalen Thompson,25.0,4,15.0,"1.0 sacks, 4 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Budda Baker*,27.0,6,12.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Russell Wilson,35.0,11,15.0,"297 for 447, 3,070 yards, 26 td, 8 int, & 80 rushes for 341 yards and 3 td",,2023_ROSTER.HTM,Table_1
-RB,Javonte Williams,23.0,2,13.0,"217 rushes for 774 yards, 3 td, & 47 catches for 228 yards and 2 td",,2023_ROSTER.HTM,Table_1
-WR,Jerry Jeudy,24.0,3,11.0,"54 catches for 758 yards, 2 td",,2023_ROSTER.HTM,Table_1
-WR,Marvin Mims*,21.0,Rook,7.0,"22 catches for 377 yards, 1 td, & 9 rushes for 30 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Courtland Sutton,28.0,5,14.0,"59 catches for 772 yards, 10 td",,2023_ROSTER.HTM,Table_1
-TE,Adam Trautman,26.0,3,12.0,"22 catches for 204 yards, 3 td",,2023_ROSTER.HTM,Table_1
-LT,Garett Bolles,31.0,6,17.0,,,2023_ROSTER.HTM,Table_1
-LG,Ben Powers,27.0,4,17.0,,,2023_ROSTER.HTM,Table_1
-C,Lloyd Cushenberry III,26.0,3,17.0,,,2023_ROSTER.HTM,Table_1
-RG,Quinn Meinerz,25.0,2,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-RT,Mike McGlinchey,29.0,5,16.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Zach Allen,26.0,4,17.0,"5.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-NT,Mike Purcell,32.0,9,10.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RDE,D.J. Jones,28.0,6,16.0,"2.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Baron Browning,24.0,2,9.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LILB,Alex Singleton,30.0,4,16.0,"2.0 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Josey Jewell,29.0,5,15.0,"3.0 sacks, 0 interceptions, 3 fumbles recovered",,2023_ROSTER.HTM,Table_1
-ROLB,Jonathon Cooper,25.0,2,17.0,"8.5 sacks, 1 interception, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Patrick Surtain II*,23.0,2,17.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Fabian Moreau,29.0,6,11.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Kareem Jackson,35.0,13,8.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Justin Simmons*,30.0,7,15.0,"1.0 sacks, 3 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Gardner Minshew II*,27.0,4,13.0,"305 for 490, 3,305 yards, 15 td, 9 int, & 34 rushes for 100 yards and 3 td",,2023_ROSTER.HTM,Table_1
-RB,Zack Moss,26.0,3,8.0,"183 rushes for 794 yards, 5 td, & 27 catches for 192 yards and 2 td",,2023_ROSTER.HTM,Table_1
-WR,Josh Downs,22.0,Rook,9.0,"68 catches for 771 yards, 2 td",,2023_ROSTER.HTM,Table_1
-WR,Alec Pierce,23.0,1,16.0,"32 catches for 514 yards, 2 td",,2023_ROSTER.HTM,Table_1
-WR,Michael Pittman Jr.,26.0,3,15.0,"109 catches for 1,152 yards, 4 td",,2023_ROSTER.HTM,Table_1
-LT,Bernhard Raimann,26.0,1,15.0,,,2023_ROSTER.HTM,Table_1
-LG,Quenton Nelson*,27.0,5,17.0,,,2023_ROSTER.HTM,Table_1
-C,Ryan Kelly*,30.0,7,14.0,,,2023_ROSTER.HTM,Table_1
-RG,Will Fries,25.0,2,17.0,,,2023_ROSTER.HTM,Table_1
-RT,Braden Smith,27.0,5,10.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Kwity Paye,25.0,2,16.0,"8.5 sacks, 0 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DT,DeForest Buckner*,29.0,7,16.0,,,2023_ROSTER.HTM,Table_1
-NT,Grover Stewart,30.0,6,11.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Samson Ebukam,28.0,6,17.0,"9.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LLB,Shaquille Leonard,28.0,5,9.0,,,2023_ROSTER.HTM,Table_1
-MLB,Zaire Franklin,27.0,5,16.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RLB,E.J. Speed,28.0,4,11.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LCB,Darrell Baker,25.0,1,6.0,,,2023_ROSTER.HTM,Table_1
-RCB,Kenny Moore,28.0,6,16.0,"1.5 sacks, 3 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Julian Blackmon,25.0,3,15.0,"0.0 sacks, 4 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Rodney Thomas II,25.0,1,15.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Dak Prescott*,30.0,7.0,17.0,"410 for 590, 4,516 yards, 36 td, 9 int, & 55 rushes for 242 yards and 2 td",,2023_ROSTER.HTM,Table_1
-RB,Tony Pollard,26.0,4.0,17.0,"252 rushes for 1,005 yards, 6 td, & 55 catches for 311 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Brandin Cooks,30.0,9.0,15.0,"54 catches for 657 yards, 8 td, & 5 rushes for 35 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Michael Gallup,27.0,5.0,13.0,"34 catches for 418 yards, 2 td",,2023_ROSTER.HTM,Table_1
-WR,CeeDee Lamb*+,24.0,3.0,17.0,"135 catches for 1,749 yards, 12 td, & 14 rushes for 113 yards and 2 td",,2023_ROSTER.HTM,Table_1
-TE,Jake Ferguson*,24.0,1.0,16.0,"71 catches for 761 yards, 5 td",,2023_ROSTER.HTM,Table_1
-LT,Tyron Smith,33.0,12.0,13.0,,,2023_ROSTER.HTM,Table_1
-LG,Tyler Smith*,22.0,1.0,14.0,,,2023_ROSTER.HTM,Table_1
-C,Tyler Biadasz,26.0,3.0,16.0,2 fumbles recovered,,2023_ROSTER.HTM,Table_1
-RG,Zack Martin*+,33.0,9.0,15.0,,,2023_ROSTER.HTM,Table_1
-RT,Terence Steele,26.0,3.0,17.0,1 fumble recovered,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,DeMarcus Lawrence*,31.0,9.0,17.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LDT,Johnathan Hankins,31.0,10.0,14.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDT,Osa Odighizuwa,25.0,2.0,17.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RDE,Micah Parsons*,24.0,2.0,17.0,"14.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LLB,Damone Clark,23.0,1.0,17.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-RLB,Leighton Vander Esch,26.0,5.0,5.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Stephon Gilmore,33.0,11.0,17.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,DaRon Bland*+,24.0,1.0,15.0,"0.0 sacks, 9 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Malik Hooker,27.0,6.0,15.0,"0.0 sacks, 1 interception, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-FS,Donovan Wilson,28.0,4.0,13.0,"0.0 sacks, 2 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DB,Markquese Bell,24.0,1.0,8.0,,,2023_ROSTER.HTM,Table_1
-,Offensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-QB,Matthew Stafford*,35.0,14,15.0,"326 for 521, 3,965 yards, 24 td, 11 int, & 21 rushes for 65 yards and 0 td",,2023_ROSTER.HTM,Table_1
-RB,Kyren Williams*,23.0,1,11.0,"228 rushes for 1,144 yards, 12 td, & 32 catches for 206 yards and 3 td",,2023_ROSTER.HTM,Table_1
-WR,Tutu Atwell,24.0,2,14.0,"39 catches for 483 yards, 3 td, & 5 rushes for 31 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Cooper Kupp,30.0,6,12.0,"59 catches for 737 yards, 5 td, & 1 rush for -3 yards and 0 td",,2023_ROSTER.HTM,Table_1
-WR,Puka Nacua*,22.0,Rook,17.0,"105 catches for 1,486 yards, 6 td, & 12 rushes for 89 yards and 0 td",,2023_ROSTER.HTM,Table_1
-TE,Tyler Higbee,30.0,7,15.0,"47 catches for 495 yards, 2 td",,2023_ROSTER.HTM,Table_1
-LT,Alaric Jackson,25.0,2,15.0,,,2023_ROSTER.HTM,Table_1
-LG,Steve Avila,24.0,Rook,17.0,,,2023_ROSTER.HTM,Table_1
-C,Coleman Shelton,28.0,4,17.0,,,2023_ROSTER.HTM,Table_1
-RG,Kevin Dotson,27.0,3,14.0,,,2023_ROSTER.HTM,Table_1
-RT,Rob Havenstein,31.0,8,14.0,,,2023_ROSTER.HTM,Table_1
-,Defensive Starters,,,,,,2023_ROSTER.HTM,Table_1
-LDE,Jonah Williams,28.0,2,16.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-DT,Aaron Donald*+,32.0,9,16.0,,,2023_ROSTER.HTM,Table_1
-NT,Bobby Brown,23.0,2,13.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LOLB,Michael Hoecht,26.0,2,17.0,"6.0 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-LILB,Ernest Jones,24.0,2,15.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RILB,Troy Reeder,29.0,4,6.0,,,2023_ROSTER.HTM,Table_1
-ROLB,Byron Young,25.0,Rook,16.0,"8.0 sacks, 0 interceptions, 1 fumble recovered",,2023_ROSTER.HTM,Table_1
-LCB,Derion Kendrick,23.0,1,12.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-RCB,Ahkello Witherspoon,28.0,6,17.0,"0.0 sacks, 3 interceptions, 2 fumbles recovered",,2023_ROSTER.HTM,Table_1
-SS,Jordan Fuller,25.0,3,17.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,2023_ROSTER.HTM,Table_1
-FS,Russ Yeast,24.0,1,9.0,,,2023_ROSTER.HTM,Table_1
+,Offensive Starters,,,,,,HTX,Table_1
+QB,C.J. Stroud*,22.0,Rook,15.0,"319 for 499, 4,108 yards, 23 td, 5 int, & 39 rushes for 167 yards and 3 td",,HTX,Table_1
+RB,Devin Singletary,26.0,4,10.0,"216 rushes for 898 yards, 4 td, & 30 catches for 193 yards and 0 td",,HTX,Table_1
+FB,Andrew Beck,27.0,4,12.0,"5 rushes for 3 yards, 1 td, & 11 catches for 55 yards and 2 td",,HTX,Table_1
+WR,Nico Collins,24.0,2,10.0,"80 catches for 1,297 yards, 8 td, & 1 rush for 7 yards and 0 td",,HTX,Table_1
+WR,Robert Woods,31.0,10,11.0,"40 catches for 426 yards, 1 td, & 1 rush for 7 yards and 0 td",,HTX,Table_1
+TE,Dalton Schultz,27.0,5,8.0,"59 catches for 635 yards, 5 td",,HTX,Table_1
+LT,Laremy Tunsil*,29.0,7,14.0,,,HTX,Table_1
+LG,Tytus Howard,27.0,4,7.0,1 fumble recovered,,HTX,Table_1
+C,Michael Deiter,27.0,4,10.0,,,HTX,Table_1
+RG,Shaq Mason,30.0,8,17.0,,,HTX,Table_1
+RT,George Fant,31.0,7,13.0,1 fumble recovered,,HTX,Table_1
+,Defensive Starters,,,,,,HTX,Table_1
+LDE,Will Anderson*,22.0,Rook,13.0,"7.0 sacks, 0 interceptions, 0 fumbles recovered",,HTX,Table_1
+LDT,Maliek Collins,28.0,7,16.0,"5.0 sacks, 0 interceptions, 0 fumbles recovered",,HTX,Table_1
+RDT,Sheldon Rankins,29.0,7,15.0,"6.0 sacks, 0 interceptions, 1 fumble recovered",,HTX,Table_1
+RDE,Jonathan Greenard,26.0,3,15.0,"12.5 sacks, 0 interceptions, 0 fumbles recovered",,HTX,Table_1
+LLB,Denzel Perryman,31.0,8,11.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,HTX,Table_1
+MLB,Blake Cashman,27.0,4,13.0,"2.0 sacks, 1 interception, 1 fumble recovered",,HTX,Table_1
+RLB,Henry To'oTo'o,22.0,Rook,6.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,HTX,Table_1
+LCB,Steven Nelson,30.0,8,16.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,HTX,Table_1
+RCB,Derek Stingley Jr.,22.0,1,11.0,"0.0 sacks, 5 interceptions, 0 fumbles recovered",,HTX,Table_1
+SS,Jimmie Ward,32.0,9,10.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,HTX,Table_1
+FS,Jalen Pitre,24.0,1,15.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,HTX,Table_1
+,Offensive Starters,,,,,,CHI,Table_1
+QB,Justin Fields,24.0,2,13.0,"227 for 370, 2,562 yards, 16 td, 9 int, & 124 rushes for 657 yards and 4 td",,CHI,Table_1
+RB,Khalil Herbert,25.0,2,9.0,"132 rushes for 611 yards, 2 td, & 20 catches for 134 yards and 1 td",,CHI,Table_1
+WR,Darnell Mooney,26.0,3,14.0,"31 catches for 414 yards, 1 td, & 2 rushes for 5 yards and 0 td",,CHI,Table_1
+WR,D.J. Moore,26.0,5,17.0,"96 catches for 1,364 yards, 8 td, & 4 rushes for 21 yards and 1 td",,CHI,Table_1
+TE,Cole Kmet,24.0,3,17.0,"73 catches for 719 yards, 6 td, & 3 rushes for 2 yards and 0 td",,CHI,Table_1
+TE,Robert Tonyan,29.0,5,6.0,"11 catches for 112 yards, 0 td",,CHI,Table_1
+LT,Braxton Jones,24.0,1,11.0,1 fumble recovered,,CHI,Table_1
+LG,Cody Whitehair,31.0,7,11.0,,,CHI,Table_1
+C,Lucas Patrick,30.0,6,15.0,2 fumbles recovered,,CHI,Table_1
+RG,Nate Davis,27.0,4,11.0,,,CHI,Table_1
+RT,Darnell Wright,22.0,Rook,17.0,,,CHI,Table_1
+,Defensive Starters,,,,,,CHI,Table_1
+LDE,Yannick Ngakoue,28.0,7,13.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,CHI,Table_1
+LDT,Andrew Billings,28.0,6,17.0,,,CHI,Table_1
+RDT,Justin Jones,27.0,5,17.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,CHI,Table_1
+RDE,Montez Sweat*,27.0,4,9.0,"6.0 sacks, 0 interceptions, 0 fumbles recovered",,CHI,Table_1
+LLB,T.J. Edwards,27.0,4,17.0,"2.5 sacks, 3 interceptions, 2 fumbles recovered",,CHI,Table_1
+MLB,Tremaine Edmunds,25.0,5,15.0,"0.0 sacks, 4 interceptions, 1 fumble recovered",,CHI,Table_1
+RLB,Jack Sanborn,23.0,1,10.0,"1.0 sacks, 1 interception, 0 fumbles recovered",,CHI,Table_1
+LCB,Jaylon Johnson*,24.0,3,14.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,CHI,Table_1
+RCB,Tyrique Stevenson,23.0,Rook,16.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,CHI,Table_1
+SS,Jaquan Brisker,24.0,1,15.0,"1.0 sacks, 1 interception, 1 fumble recovered",,CHI,Table_1
+FS,Eddie Jackson,30.0,6,12.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,CHI,Table_1
+,Offensive Starters,,,,,,CAR,Table_1
+QB,Bryce Young,22.0,Rook,16.0,"315 for 527, 2,877 yards, 11 td, 10 int, & 39 rushes for 253 yards and 0 td",,CAR,Table_1
+RB,Chuba Hubbard,24.0,2,12.0,"238 rushes for 902 yards, 5 td, & 39 catches for 233 yards and 0 td",,CAR,Table_1
+WR,DJ Chark,27.0,5,11.0,"35 catches for 525 yards, 5 td",,CAR,Table_1
+WR,Jonathan Mingo,22.0,Rook,14.0,"43 catches for 418 yards, 0 td",,CAR,Table_1
+WR,Adam Thielen,33.0,9,17.0,"103 catches for 1,014 yards, 4 td, & 1 rush for 6 yards and 0 td",,CAR,Table_1
+TE,Hayden Hurst,30.0,5,8.0,"18 catches for 184 yards, 1 td",,CAR,Table_1
+LT,Ikem Ekwonu,23.0,1,17.0,,,CAR,Table_1
+LG,Chandler Zavala,24.0,Rook,7.0,,,CAR,Table_1
+C,Bradley Bozeman,29.0,5,17.0,,,CAR,Table_1
+RT,Taylor Moton,29.0,6,17.0,,,CAR,Table_1
+,Defensive Starters,,,,,,CAR,Table_1
+LDE,Derrick Brown*,25.0,3,17.0,"2.0 sacks, 1 interception, 0 fumbles recovered",,CAR,Table_1
+DE,Yetur Gross-Matos,25.0,3,6.0,,,CAR,Table_1
+NT,Shy Tuttle,28.0,4,17.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,CAR,Table_1
+RDE,DeShawn Williams,31.0,7,10.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,CAR,Table_1
+LOLB,Brian Burns,25.0,4,16.0,"8.0 sacks, 0 interceptions, 1 fumble recovered",,CAR,Table_1
+LILB,Frankie Luvu,27.0,5,17.0,"5.5 sacks, 0 interceptions, 0 fumbles recovered",,CAR,Table_1
+ROLB,Justin Houston,34.0,12,7.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,CAR,Table_1
+LCB,C.J. Henderson,25.0,3,7.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,CAR,Table_1
+RCB,Donte Jackson,28.0,5,16.0,,,CAR,Table_1
+SS,Xavier Woods,28.0,6,14.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,CAR,Table_1
+FS,Vonn Bell,29.0,7,13.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,CAR,Table_1
+,Offensive Starters,,,,,,NWE,Table_1
+QB,Mac Jones,25.0,2.0,11.0,"224 for 345, 2,120 yards, 10 td, 12 int, & 26 rushes for 96 yards and 0 td",,NWE,Table_1
+RB,Rhamondre Stevenson,25.0,2.0,12.0,"156 rushes for 619 yards, 4 td, & 38 catches for 238 yards and 0 td",,NWE,Table_1
+WR,Kendrick Bourne,28.0,6.0,5.0,"37 catches for 406 yards, 4 td, & 1 rush for 4 yards and 0 td",,NWE,Table_1
+WR,DeVante Parker,30.0,8.0,13.0,"33 catches for 394 yards, 0 td",,NWE,Table_1
+TE,Pharaoh Brown,29.0,6.0,11.0,"13 catches for 208 yards, 1 td",,NWE,Table_1
+TE,Mike Gesicki,28.0,5.0,10.0,"29 catches for 244 yards, 2 td",,NWE,Table_1
+LT,Trent Brown,30.0,8.0,8.0,,,NWE,Table_1
+LG,Cole Strange,25.0,1.0,10.0,1 fumble recovered,,NWE,Table_1
+C,David Andrews,31.0,8.0,17.0,1 fumble recovered,,NWE,Table_1
+RT,Michael Onwenu,26.0,3.0,15.0,,,NWE,Table_1
+,Defensive Starters,,,,,,NWE,Table_1
+LDE,Deatrich Wise Jr.,29.0,6.0,13.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,NWE,Table_1
+NT,Davon Godchaux,29.0,6.0,17.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,NWE,Table_1
+RDE,Lawrence Guy,33.0,11.0,12.0,,,NWE,Table_1
+LILB,Ja'Whaun Bentley,27.0,5.0,16.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,NWE,Table_1
+RILB,Jahlani Tavai,27.0,4.0,16.0,"1.0 sacks, 2 interceptions, 0 fumbles recovered",,NWE,Table_1
+ROLB,Anfernee Jennings,26.0,3.0,14.0,"1.5 sacks, 0 interceptions, 1 fumble recovered",,NWE,Table_1
+LCB,Jonathan Jones,30.0,7.0,14.0,,,NWE,Table_1
+RCB,J.C. Jackson,28.0,5.0,6.0,,,NWE,Table_1
+SS,Jabrill Peppers,28.0,6.0,15.0,"1.0 sacks, 2 interceptions, 1 fumble recovered",,NWE,Table_1
+FS,Kyle Dugger,27.0,3.0,17.0,"1.5 sacks, 2 interceptions, 0 fumbles recovered",,NWE,Table_1
+DB,Jalen Mills,29.0,7.0,8.0,,,NWE,Table_1
+,Offensive Starters,,,,,,DET,Table_1
+QB,Jared Goff,29.0,7,17.0,"407 for 605, 4,575 yards, 30 td, 12 int, & 32 rushes for 21 yards and 2 td",,DET,Table_1
+RB,Jahmyr Gibbs*,21.0,Rook,3.0,"182 rushes for 945 yards, 10 td, & 52 catches for 316 yards and 1 td",,DET,Table_1
+RB,David Montgomery,26.0,4,14.0,"219 rushes for 1,015 yards, 13 td, & 16 catches for 117 yards and 0 td",,DET,Table_1
+WR,Josh Reynolds,28.0,6,13.0,"40 catches for 608 yards, 5 td",,DET,Table_1
+WR,Amon-Ra St. Brown*+,24.0,2,16.0,"119 catches for 1,515 yards, 10 td, & 4 rushes for 24 yards and 0 td",,DET,Table_1
+WR,Jameson Williams,22.0,1,10.0,"24 catches for 354 yards, 2 td, & 3 rushes for 29 yards and 1 td",,DET,Table_1
+TE,Sam LaPorta*,22.0,Rook,14.0,"86 catches for 889 yards, 10 td, & 1 rush for 4 yards and 0 td",,DET,Table_1
+LT,Taylor Decker,29.0,7,15.0,,,DET,Table_1
+LG,Jonah Jackson,26.0,3,12.0,,,DET,Table_1
+C,Frank Ragnow*,27.0,5,15.0,,,DET,Table_1
+RG,Graham Glasgow,31.0,7,15.0,,,DET,Table_1
+RT,Penei Sewell*+,23.0,2,17.0,1 fumble recovered,,DET,Table_1
+,Defensive Starters,,,,,,DET,Table_1
+LDE,John Cominsky,28.0,4,11.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,DET,Table_1
+LDT,Alim McNeill,23.0,2,13.0,"5.0 sacks, 0 interceptions, 0 fumbles recovered",,DET,Table_1
+RDT,Benito Jones,26.0,3,15.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,DET,Table_1
+RDE,Aidan Hutchinson*,23.0,1,17.0,"11.5 sacks, 1 interception, 2 fumbles recovered",,DET,Table_1
+LLB,Jack Campbell,23.0,Rook,12.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,DET,Table_1
+MLB,Derrick Barnes,24.0,2,13.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,DET,Table_1
+RLB,Alex Anzalone,29.0,6,16.0,"3.0 sacks, 0 interceptions, 1 fumble recovered",,DET,Table_1
+LCB,Cameron Sutton,28.0,6,17.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,DET,Table_1
+RCB,Jerry Jacobs,26.0,2,12.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,DET,Table_1
+SS,Tracy Walker,28.0,5,6.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,DET,Table_1
+FS,Kerby Joseph,23.0,1,15.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,DET,Table_1
+,Offensive Starters,,,,,,NYG,Table_1
+QB,Daniel Jones,26.0,4,6.0,"108 for 160, 909 yards, 2 td, 6 int, & 40 rushes for 206 yards and 1 td",,NYG,Table_1
+RB,Saquon Barkley,26.0,5,14.0,"247 rushes for 962 yards, 6 td, & 41 catches for 280 yards and 4 td",,NYG,Table_1
+WR,Jalin Hyatt,22.0,Rook,7.0,"23 catches for 373 yards, 0 td",,NYG,Table_1
+WR,Wan'Dale Robinson,22.0,1,8.0,"60 catches for 525 yards, 1 td, & 9 rushes for 87 yards and 1 td",,NYG,Table_1
+WR,Darius Slayton,26.0,4,13.0,"50 catches for 770 yards, 4 td",,NYG,Table_1
+TE,Daniel Bellinger,23.0,1,13.0,"25 catches for 255 yards, 0 td",,NYG,Table_1
+TE,Darren Waller,31.0,8,11.0,"52 catches for 552 yards, 1 td",,NYG,Table_1
+LT,Andrew Thomas,24.0,3,10.0,,,NYG,Table_1
+LG,Justin Pugh,33.0,10,12.0,,,NYG,Table_1
+C,John Michael Schmitz,24.0,Rook,13.0,1 fumble recovered,,NYG,Table_1
+RG,Ben Bredeson,25.0,3,16.0,,,NYG,Table_1
+RT,Tyre Phillips,26.0,3,9.0,,,NYG,Table_1
+,Defensive Starters,,,,,,NYG,Table_1
+LDE,Dexter Lawrence*,26.0,4,16.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,NYG,Table_1
+NT,Leonard Williams,29.0,8,7.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,NYG,Table_1
+RDE,A'Shawn Robinson,28.0,7,13.0,,,NYG,Table_1
+LOLB,Jihad Ward,29.0,7,9.0,"5.0 sacks, 0 interceptions, 1 fumble recovered",,NYG,Table_1
+LILB,Bobby Okereke,27.0,4,17.0,"2.5 sacks, 2 interceptions, 0 fumbles recovered",,NYG,Table_1
+RILB,Micah McFadden,23.0,1,14.0,"1.0 sacks, 1 interception, 4 fumbles recovered",,NYG,Table_1
+ROLB,Kayvon Thibodeaux,23.0,1,17.0,"11.5 sacks, 0 interceptions, 1 fumble recovered",,NYG,Table_1
+LCB,Adoree' Jackson,28.0,6,14.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,NYG,Table_1
+RCB,Deonte Banks,22.0,Rook,15.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,NYG,Table_1
+SS,Jason Pinnock,24.0,2,16.0,"2.0 sacks, 2 interceptions, 0 fumbles recovered",,NYG,Table_1
+FS,Xavier McKinney,25.0,3,17.0,"0.5 sacks, 3 interceptions, 2 fumbles recovered",,NYG,Table_1
+,Offensive Starters,,,,,,ATL,Table_1
+QB,Desmond Ridder,24.0,1,13.0,"249 for 388, 2,836 yards, 12 td, 12 int, & 53 rushes for 193 yards and 5 td",,ATL,Table_1
+RB,Tyler Allgeier,23.0,1,3.0,"186 rushes for 683 yards, 4 td, & 18 catches for 193 yards and 1 td",,ATL,Table_1
+RB,Bijan Robinson,21.0,Rook,16.0,"214 rushes for 976 yards, 4 td, & 58 catches for 487 yards and 4 td",,ATL,Table_1
+WR,Drake London,22.0,1,16.0,"69 catches for 905 yards, 2 td",,ATL,Table_1
+TE,Kyle Pitts,23.0,2,15.0,"53 catches for 667 yards, 3 td, & 1 rush for -4 yards and 0 td",,ATL,Table_1
+TE,Jonnu Smith,28.0,6,6.0,"50 catches for 582 yards, 3 td, & 1 rush for yards and 0 td",,ATL,Table_1
+LT,Jake Matthews,31.0,9,17.0,,,ATL,Table_1
+LG,Matthew Bergeron,23.0,Rook,17.0,,,ATL,Table_1
+C,Drew Dalman,25.0,2,14.0,,,ATL,Table_1
+RT,Kaleb McGary,28.0,4,14.0,,,ATL,Table_1
+,Defensive Starters,,,,,,ATL,Table_1
+LDE,Bud Dupree,30.0,8,16.0,"6.5 sacks, 0 interceptions, 0 fumbles recovered",,ATL,Table_1
+LDT,Grady Jarrett,30.0,8,8.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,ATL,Table_1
+RDT,David Onyemata,31.0,7,14.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,ATL,Table_1
+RDE,Calais Campbell,37.0,15,17.0,"6.5 sacks, 0 interceptions, 1 fumble recovered",,ATL,Table_1
+LLB,Kaden Elliss,28.0,4,17.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,ATL,Table_1
+MLB,Nathan Landman,25.0,1,14.0,"2.0 sacks, 1 interception, 0 fumbles recovered",,ATL,Table_1
+RLB,Arnold Ebiketie,24.0,1,6.0,"6.0 sacks, 0 interceptions, 0 fumbles recovered",,ATL,Table_1
+LCB,AJ Terrell,25.0,3,17.0,,,ATL,Table_1
+RCB,Jeff Okudah,24.0,3,9.0,,,ATL,Table_1
+SS,Jessie Bates III*,26.0,5,17.0,"0.0 sacks, 6 interceptions, 0 fumbles recovered",,ATL,Table_1
+FS,Richie Grant,26.0,2,15.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,ATL,Table_1
+,Offensive Starters,,,,,,MIA,Table_1
+QB,Tua Tagovailoa*,25.0,3.0,17.0,"388 for 560, 4,624 yards, 29 td, 14 int, & 35 rushes for 74 yards and 0 td",,MIA,Table_1
+RB,Raheem Mostert*,31.0,8.0,15.0,"209 rushes for 1,012 yards, 18 td, & 25 catches for 175 yards and 3 td",,MIA,Table_1
+FB,Alec Ingold*,27.0,4.0,13.0,"2 rushes for yards, 0 td, & 13 catches for 119 yards and 0 td",,MIA,Table_1
+WR,Tyreek Hill*+,29.0,7.0,16.0,"119 catches for 1,799 yards, 13 td, & 6 rushes for 15 yards and 0 td",,MIA,Table_1
+WR,Jaylen Waddle,25.0,2.0,14.0,"72 catches for 1,014 yards, 4 td, & 3 rushes for 12 yards and 0 td",,MIA,Table_1
+TE,Durham Smythe,28.0,5.0,14.0,"35 catches for 366 yards, 0 td",,MIA,Table_1
+LT,Terron Armstead*,32.0,10.0,10.0,,,MIA,Table_1
+LG,Lester Cotton,27.0,4.0,8.0,,,MIA,Table_1
+C,Connor Williams,26.0,5.0,9.0,,,MIA,Table_1
+RG,Robert Hunt,27.0,3.0,10.0,,,MIA,Table_1
+RT,Austin Jackson,24.0,3.0,16.0,,,MIA,Table_1
+,Defensive Starters,,,,,,MIA,Table_1
+LDE,Christian Wilkins,28.0,4.0,17.0,"9.0 sacks, 0 interceptions, 2 fumbles recovered",,MIA,Table_1
+NT,Raekwon Davis,26.0,3.0,7.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,MIA,Table_1
+RDE,Zach Sieler,28.0,5.0,17.0,"10.0 sacks, 1 interception, 2 fumbles recovered",,MIA,Table_1
+LOLB,Andrew Van Ginkel,28.0,4.0,11.0,"6.0 sacks, 1 interception, 1 fumble recovered",,MIA,Table_1
+LILB,Jerome Baker,27.0,5.0,12.0,"1.5 sacks, 2 interceptions, 0 fumbles recovered",,MIA,Table_1
+RILB,David Long,27.0,4.0,17.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,MIA,Table_1
+ROLB,Bradley Chubb,27.0,5.0,16.0,"11.0 sacks, 0 interceptions, 2 fumbles recovered",,MIA,Table_1
+LCB,Xavien Howard,30.0,7.0,13.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,MIA,Table_1
+RCB,Kader Kohou,25.0,1.0,16.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,MIA,Table_1
+SS,Jevon Holland,23.0,2.0,12.0,"0.0 sacks, 1 interception, 1 fumble recovered",,MIA,Table_1
+FS,DeShon Elliott,26.0,4.0,15.0,"0.0 sacks, 1 interception, 1 fumble recovered",,MIA,Table_1
+,Offensive Starters,,,,,,PIT,Table_1
+QB,Kenny Pickett,25.0,1,12.0,"201 for 324, 2,070 yards, 6 td, 4 int, & 42 rushes for 54 yards and 1 td",,PIT,Table_1
+RB,Najee Harris,25.0,2,17.0,"255 rushes for 1,035 yards, 8 td, & 29 catches for 170 yards and 0 td",,PIT,Table_1
+WR,Diontae Johnson,27.0,4,11.0,"51 catches for 717 yards, 5 td",,PIT,Table_1
+WR,George Pickens,22.0,1,16.0,"63 catches for 1,140 yards, 5 td, & 3 rushes for 18 yards and 0 td",,PIT,Table_1
+WR,Allen Robinson,30.0,9,17.0,"34 catches for 280 yards, 0 td",,PIT,Table_1
+TE,Pat Freiermuth,25.0,2,9.0,"32 catches for 308 yards, 2 td",,PIT,Table_1
+LT,Dan Moore,25.0,2,16.0,1 fumble recovered,,PIT,Table_1
+LG,Isaac Seumalo,30.0,7,17.0,1 fumble recovered,,PIT,Table_1
+C,Mason Cole,27.0,5,17.0,,,PIT,Table_1
+RG,James Daniels,26.0,5,15.0,,,PIT,Table_1
+RT,Broderick Jones,22.0,Rook,11.0,1 fumble recovered,,PIT,Table_1
+,Defensive Starters,,,,,,PIT,Table_1
+LDE,Cameron Heyward,34.0,12,11.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,PIT,Table_1
+NT,Montravius Adams,28.0,6,8.0,,,PIT,Table_1
+RDE,Larry Ogunjobi,29.0,6,17.0,"3.0 sacks, 0 interceptions, 2 fumbles recovered",,PIT,Table_1
+LOLB,T.J. Watt*+,29.0,6,17.0,"19.0 sacks, 1 interception, 3 fumbles recovered",,PIT,Table_1
+LILB,Cole Holcomb,27.0,4,8.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,PIT,Table_1
+RILB,Elandon Roberts,29.0,7,15.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,PIT,Table_1
+ROLB,Alex Highsmith,26.0,3,17.0,"7.0 sacks, 2 interceptions, 0 fumbles recovered",,PIT,Table_1
+LCB,Patrick Peterson,33.0,12,16.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,PIT,Table_1
+RCB,Joey Porter Jr.,23.0,Rook,11.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,PIT,Table_1
+SS,Keanu Neal,28.0,7,8.0,"0.0 sacks, 1 interception, 1 fumble recovered",,PIT,Table_1
+FS,Minkah Fitzpatrick*,27.0,5,10.0,,,PIT,Table_1
+,Offensive Starters,,,,,,PHI,Table_1
+QB,Jalen Hurts*,25.0,3.0,17.0,"352 for 538, 3,858 yards, 23 td, 15 int, & 157 rushes for 605 yards and 15 td",,PHI,Table_1
+RB,D'Andre Swift*,24.0,3.0,15.0,"229 rushes for 1,049 yards, 5 td, & 39 catches for 214 yards and 1 td",,PHI,Table_1
+WR,A.J. Brown*,26.0,4.0,17.0,"106 catches for 1,456 yards, 7 td",,PHI,Table_1
+WR,DeVonta Smith,25.0,2.0,16.0,"81 catches for 1,066 yards, 7 td",,PHI,Table_1
+TE,Dallas Goedert,28.0,5.0,14.0,"59 catches for 592 yards, 3 td, & 1 rush for 1 yards and 0 td",,PHI,Table_1
+TE,Jack Stoll,25.0,2.0,10.0,"5 catches for 38 yards, 0 td",,PHI,Table_1
+LT,Jordan Mailata,26.0,3.0,17.0,,,PHI,Table_1
+LG,Landon Dickerson*,25.0,2.0,16.0,,,PHI,Table_1
+C,Jason Kelce*+,36.0,12.0,17.0,,,PHI,Table_1
+RG,Cam Jurgens,24.0,1.0,11.0,,,PHI,Table_1
+RT,Lane Johnson*,33.0,10.0,16.0,1 fumble recovered,,PHI,Table_1
+,Defensive Starters,,,,,,PHI,Table_1
+LDE,Milton Williams,24.0,2.0,10.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,PHI,Table_1
+LDT,Fletcher Cox,33.0,11.0,15.0,"5.0 sacks, 0 interceptions, 1 fumble recovered",,PHI,Table_1
+RDT,Jordan Davis,23.0,1.0,17.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,PHI,Table_1
+RDE,Josh Sweat,26.0,5.0,17.0,"6.5 sacks, 0 interceptions, 0 fumbles recovered",,PHI,Table_1
+LLB,Haason Reddick*,29.0,6.0,17.0,"11.0 sacks, 0 interceptions, 0 fumbles recovered",,PHI,Table_1
+MLB,Nicholas Morrow,28.0,6.0,12.0,"3.0 sacks, 0 interceptions, 2 fumbles recovered",,PHI,Table_1
+RLB,Zach Cunningham,29.0,6.0,10.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,PHI,Table_1
+LCB,Darius Slay*,32.0,10.0,12.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,PHI,Table_1
+RCB,James Bradberry,30.0,7.0,16.0,"0.0 sacks, 1 interception, 1 fumble recovered",,PHI,Table_1
+SS,Kevin Byard,30.0,7.0,10.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,PHI,Table_1
+FS,Reed Blankenship,24.0,1.0,15.0,"0.0 sacks, 3 interceptions, 1 fumble recovered",,PHI,Table_1
+,Offensive Starters,,,,,,RAV,Table_1
+QB,Lamar Jackson*+,26.0,5,16.0,"307 for 457, 3,678 yards, 24 td, 7 int, & 148 rushes for 821 yards and 5 td",,RAV,Table_1
+RB,Gus Edwards,28.0,5,9.0,"198 rushes for 810 yards, 13 td, & 12 catches for 180 yards and 0 td",,RAV,Table_1
+FB,Patrick Ricard,29.0,6,9.0,"0 rushes for yards, 0 td, & 5 catches for 52 yards and 1 td",,RAV,Table_1
+WR,Rashod Bateman,24.0,2,12.0,"32 catches for 367 yards, 1 td, & 1 rush for 18 yards and 0 td",,RAV,Table_1
+WR,Zay Flowers,23.0,Rook,16.0,"77 catches for 858 yards, 5 td, & 8 rushes for 56 yards and 1 td",,RAV,Table_1
+TE,Mark Andrews,28.0,5,9.0,"45 catches for 544 yards, 6 td, & 1 rush for yards and 0 td",,RAV,Table_1
+LT,Ronnie Stanley,29.0,7,13.0,,,RAV,Table_1
+LG,John Simpson,26.0,3,17.0,1 fumble recovered,,RAV,Table_1
+C,Tyler Linderbaum*,23.0,1,15.0,,,RAV,Table_1
+RG,Kevin Zeitler*,33.0,11,15.0,1 fumble recovered,,RAV,Table_1
+RT,Morgan Moses,32.0,9,14.0,,,RAV,Table_1
+,Defensive Starters,,,,,,RAV,Table_1
+LDE,Justin Madubuike*,26.0,3,17.0,"13.0 sacks, 0 interceptions, 0 fumbles recovered",,RAV,Table_1
+DT,Broderick Washington Jr.,27.0,3,5.0,,,RAV,Table_1
+NT,Michael Pierce,31.0,7,17.0,"1.0 sacks, 0 interceptions, 2 fumbles recovered",,RAV,Table_1
+LOLB,Malik Harrison,25.0,3,8.0,,,RAV,Table_1
+LILB,Roquan Smith*+,26.0,5,16.0,"1.5 sacks, 1 interception, 0 fumbles recovered",,RAV,Table_1
+RILB,Patrick Queen*,24.0,3,17.0,"3.5 sacks, 1 interception, 1 fumble recovered",,RAV,Table_1
+ROLB,Jadeveon Clowney,30.0,9,15.0,"9.5 sacks, 0 interceptions, 1 fumble recovered",,RAV,Table_1
+LCB,Marlon Humphrey,27.0,6,10.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,RAV,Table_1
+RCB,Brandon Stephens,26.0,2,16.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,RAV,Table_1
+SS,Kyle Hamilton*+,22.0,1,15.0,"3.0 sacks, 4 interceptions, 0 fumbles recovered",,RAV,Table_1
+FS,Marcus Williams,27.0,6,11.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,RAV,Table_1
+,Offensive Starters,,,,,,WAS,Table_1
+QB,Sam Howell,23.0,1.0,17.0,"388 for 612, 3,946 yards, 21 td, 21 int, & 48 rushes for 263 yards and 5 td",,WAS,Table_1
+RB,Brian Robinson Jr.,24.0,1.0,15.0,"178 rushes for 733 yards, 5 td, & 36 catches for 368 yards and 4 td",,WAS,Table_1
+WR,Jahan Dotson,23.0,1.0,16.0,"49 catches for 518 yards, 4 td",,WAS,Table_1
+WR,Terry McLaurin,28.0,4.0,17.0,"79 catches for 1,002 yards, 4 td",,WAS,Table_1
+WR,Curtis Samuel,27.0,6.0,13.0,"62 catches for 613 yards, 4 td, & 7 rushes for 39 yards and 1 td",,WAS,Table_1
+TE,Logan Thomas,32.0,9.0,15.0,"55 catches for 496 yards, 4 td, & 1 rush for 2 yards and 0 td",,WAS,Table_1
+LT,Charles Leno Jr.,32.0,9.0,13.0,,,WAS,Table_1
+LG,Saahdiq Charles,24.0,3.0,10.0,,,WAS,Table_1
+C,Nick Gates,28.0,4.0,10.0,,,WAS,Table_1
+RG,Samuel Cosmi,24.0,2.0,17.0,,,WAS,Table_1
+RT,Andrew Wylie,29.0,5.0,15.0,2 fumbles recovered,,WAS,Table_1
+,Defensive Starters,,,,,,WAS,Table_1
+LDE,Montez Sweat*,27.0,4.0,8.0,"6.5 sacks, 0 interceptions, 0 fumbles recovered",,WAS,Table_1
+LDT,Daron Payne,26.0,5.0,17.0,"4.0 sacks, 0 interceptions, 2 fumbles recovered",,WAS,Table_1
+RDT,Jonathan Allen,28.0,6.0,16.0,"5.5 sacks, 0 interceptions, 0 fumbles recovered",,WAS,Table_1
+RDE,James Smith-Williams,26.0,3.0,7.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,WAS,Table_1
+LLB,Jamin Davis,25.0,2.0,13.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,WAS,Table_1
+MLB,Cody Barton,27.0,4.0,13.0,"0.0 sacks, 1 interception, 1 fumble recovered",,WAS,Table_1
+RLB,Khaleke Hudson,26.0,3.0,8.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,WAS,Table_1
+LCB,Benjamin St-Juste,26.0,2.0,16.0,"1.0 sacks, 1 interception, 0 fumbles recovered",,WAS,Table_1
+RCB,Kendall Fuller,28.0,7.0,15.0,"0.0 sacks, 2 interceptions, 2 fumbles recovered",,WAS,Table_1
+SS,Kamren Curl,24.0,3.0,16.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,WAS,Table_1
+FS,Percy Butler,23.0,1.0,13.0,,,WAS,Table_1
+,Offensive Starters,,,,,,NYJ,Table_1
+QB,Zach Wilson,24.0,2,11.0,"221 for 368, 2,271 yards, 8 td, 7 int, & 36 rushes for 211 yards and 0 td",,NYJ,Table_1
+RB,Breece Hall,22.0,1,16.0,"223 rushes for 994 yards, 5 td, & 76 catches for 591 yards and 4 td",,NYJ,Table_1
+WR,Allen Lazard,28.0,5,12.0,"23 catches for 311 yards, 1 td",,NYJ,Table_1
+WR,Garrett Wilson,23.0,1,17.0,"95 catches for 1,042 yards, 3 td, & 4 rushes for yards and 0 td",,NYJ,Table_1
+TE,Tyler Conklin,28.0,5,12.0,"61 catches for 621 yards, 0 td, & 1 rush for yards and 0 td",,NYJ,Table_1
+TE,C.J. Uzomah,30.0,8,8.0,"8 catches for 58 yards, 1 td",,NYJ,Table_1
+LT,Mekhi Becton,24.0,3,16.0,1 fumble recovered,,NYJ,Table_1
+LG,Laken Tomlinson,31.0,8,17.0,2 fumbles recovered,,NYJ,Table_1
+C,Joe Tippmann,22.0,Rook,14.0,,,NYJ,Table_1
+RG,Jake Hanson,26.0,2,4.0,,,NYJ,Table_1
+RT,Max Mitchell,24.0,1,7.0,,,NYJ,Table_1
+,Defensive Starters,,,,,,NYJ,Table_1
+LDE,Quinton Jefferson,30.0,7,14.0,"6.0 sacks, 0 interceptions, 1 fumble recovered",,NYJ,Table_1
+NT,Quinnen Williams*,26.0,4,17.0,"5.5 sacks, 1 interception, 1 fumble recovered",,NYJ,Table_1
+RDE,John Franklin-Myers,27.0,5,17.0,"3.5 sacks, 0 interceptions, 0 fumbles recovered",,NYJ,Table_1
+LOLB,Jermaine Johnson II*,24.0,1,17.0,"7.5 sacks, 1 interception, 1 fumble recovered",,NYJ,Table_1
+LILB,C.J. Mosley,31.0,9,17.0,"0.5 sacks, 1 interception, 1 fumble recovered",,NYJ,Table_1
+RILB,Quincy Williams+,27.0,4,16.0,"2.0 sacks, 1 interception, 1 fumble recovered",,NYJ,Table_1
+LCB,Sauce Gardner*+,23.0,1,16.0,,,NYJ,Table_1
+RCB,D.J. Reed,27.0,5,15.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,NYJ,Table_1
+SS,Jordan Whitehead,26.0,5,17.0,"0.5 sacks, 4 interceptions, 0 fumbles recovered",,NYJ,Table_1
+FS,Tony Adams,24.0,1,15.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,NYJ,Table_1
+DB,Michael Carter,24.0,2,7.0,,,NYJ,Table_1
+,Offensive Starters,,,,,,BUF,Table_1
+QB,Josh Allen,27.0,5,17.0,"385 for 579, 4,306 yards, 29 td, 18 int, & 111 rushes for 524 yards and 15 td",,BUF,Table_1
+RB,James Cook*,24.0,1,13.0,"237 rushes for 1,122 yards, 2 td, & 44 catches for 445 yards and 4 td",,BUF,Table_1
+WR,Gabriel Davis,24.0,3,17.0,"45 catches for 746 yards, 7 td, & 1 rush for -2 yards and 0 td",,BUF,Table_1
+WR,Stefon Diggs*,30.0,8,17.0,"107 catches for 1,183 yards, 8 td, & 1 rush for 5 yards and 0 td",,BUF,Table_1
+WR,Khalil Shakir,23.0,1,10.0,"39 catches for 611 yards, 2 td, & 1 rush for 10 yards and 0 td",,BUF,Table_1
+TE,Dawson Knox,27.0,4,11.0,"22 catches for 186 yards, 2 td",,BUF,Table_1
+LT,Dion Dawkins*,29.0,6,17.0,,,BUF,Table_1
+LG,Connor McGovern,26.0,3,17.0,1 fumble recovered,,BUF,Table_1
+C,Mitch Morse,31.0,8,17.0,,,BUF,Table_1
+RG,O'Cyrus Torrence,23.0,Rook,17.0,1 fumble recovered,,BUF,Table_1
+RT,Spencer Brown,25.0,2,17.0,,,BUF,Table_1
+,Defensive Starters,,,,,,BUF,Table_1
+LDE,Gregory Rousseau,23.0,2,16.0,"5.0 sacks, 0 interceptions, 1 fumble recovered",,BUF,Table_1
+LDT,Jordan Phillips,31.0,8,9.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,BUF,Table_1
+RDT,Ed Oliver,26.0,4,16.0,"9.5 sacks, 1 interception, 0 fumbles recovered",,BUF,Table_1
+RDE,Leonard Floyd,31.0,7,16.0,"10.5 sacks, 0 interceptions, 0 fumbles recovered",,BUF,Table_1
+LLB,Tyrel Dodson,25.0,3,10.0,"2.5 sacks, 0 interceptions, 1 fumble recovered",,BUF,Table_1
+MLB,Terrel Bernard,24.0,1,17.0,"6.5 sacks, 3 interceptions, 3 fumbles recovered",,BUF,Table_1
+LCB,Rasul Douglas,28.0,6,8.0,"1.0 sacks, 4 interceptions, 2 fumbles recovered",,BUF,Table_1
+RCB,Christian Benford,23.0,1,14.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,BUF,Table_1
+SS,Jordan Poyer,32.0,10,16.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,BUF,Table_1
+FS,Micah Hyde,33.0,10,14.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,BUF,Table_1
+DB,Taron Johnson,27.0,5,17.0,,,BUF,Table_1
+,Offensive Starters,,,,,,RAI,Table_1
+QB,Aidan O'Connell,25.0,Rook,10.0,"213 for 343, 2,218 yards, 12 td, 7 int, & 17 rushes for 11 yards and 1 td",,RAI,Table_1
+RB,Josh Jacobs,25.0,4,13.0,"233 rushes for 805 yards, 6 td, & 37 catches for 296 yards and 0 td",,RAI,Table_1
+WR,Davante Adams,31.0,9,17.0,"103 catches for 1,144 yards, 8 td",,RAI,Table_1
+WR,Jakobi Meyers,27.0,4,16.0,"71 catches for 807 yards, 8 td, & 4 rushes for 24 yards and 2 td",,RAI,Table_1
+TE,Austin Hooper,29.0,7,9.0,"25 catches for 234 yards, 0 td",,RAI,Table_1
+TE,Michael Mayer,22.0,Rook,12.0,"27 catches for 304 yards, 2 td",,RAI,Table_1
+LT,Kolton Miller,28.0,5,11.0,,,RAI,Table_1
+LG,Dylan Parham,24.0,1,17.0,1 fumble recovered,,RAI,Table_1
+C,Andre James,26.0,4,16.0,,,RAI,Table_1
+RG,Greg Van Roten,33.0,11,17.0,,,RAI,Table_1
+RT,Jermaine Eluemunor,29.0,6,14.0,,,RAI,Table_1
+,Defensive Starters,,,,,,RAI,Table_1
+LDE,Maxx Crosby*,26.0,4,17.0,"14.5 sacks, 0 interceptions, 1 fumble recovered",,RAI,Table_1
+LDT,Bilal Nichols,27.0,5,17.0,"1.5 sacks, 0 interceptions, 1 fumble recovered",,RAI,Table_1
+RDT,John Jenkins,34.0,10,17.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,RAI,Table_1
+RDE,Malcolm Koonce,25.0,2,11.0,"8.0 sacks, 0 interceptions, 0 fumbles recovered",,RAI,Table_1
+LLB,Robert Spillane,28.0,5,17.0,"3.5 sacks, 3 interceptions, 1 fumble recovered",,RAI,Table_1
+MLB,Divine Deablo,25.0,2,15.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,RAI,Table_1
+LCB,Amik Robertson,25.0,3,12.0,"1.0 sacks, 2 interceptions, 0 fumbles recovered",,RAI,Table_1
+RCB,Marcus Peters,30.0,8,12.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,RAI,Table_1
+SS,Marcus Epps,27.0,4,17.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,RAI,Table_1
+FS,Tre'von Moehrig,24.0,2,17.0,"2.0 sacks, 3 interceptions, 0 fumbles recovered",,RAI,Table_1
+DB,Jakorian Bennett,23.0,Rook,4.0,,,RAI,Table_1
+,Offensive Starters,,,,,,MIN,Table_1
+QB,Kirk Cousins,35.0,11,8.0,"216 for 311, 2,331 yards, 18 td, 5 int, & 14 rushes for 25 yards and 0 td",,MIN,Table_1
+RB,Alexander Mattison,25.0,4,13.0,"180 rushes for 700 yards, 0 td, & 30 catches for 192 yards and 3 td",,MIN,Table_1
+WR,Jordan Addison,21.0,Rook,14.0,"70 catches for 911 yards, 10 td, & 1 rush for 2 yards and 0 td",,MIN,Table_1
+WR,Justin Jefferson,24.0,3,9.0,"68 catches for 1,074 yards, 5 td, & 1 rush for -12 yards and 0 td",,MIN,Table_1
+WR,K.J. Osborn,26.0,3,12.0,"48 catches for 540 yards, 3 td",,MIN,Table_1
+TE,T.J. Hockenson,26.0,4,11.0,"95 catches for 960 yards, 5 td",,MIN,Table_1
+LT,Christian Darrisaw,24.0,2,15.0,,,MIN,Table_1
+LG,Dalton Risner,28.0,4,11.0,,,MIN,Table_1
+C,Garrett Bradbury,28.0,4,14.0,1 fumble recovered,,MIN,Table_1
+RG,Ed Ingram,24.0,1,15.0,,,MIN,Table_1
+RT,Brian O'Neill,28.0,5,14.0,,,MIN,Table_1
+,Defensive Starters,,,,,,MIN,Table_1
+NT,Harrison Phillips,27.0,5,17.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,MIN,Table_1
+RDE,Jonathan Bullard,30.0,7,14.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,MIN,Table_1
+LOLB,Danielle Hunter*,29.0,8,17.0,"16.5 sacks, 0 interceptions, 0 fumbles recovered",,MIN,Table_1
+LILB,Jordan Hicks,31.0,8,13.0,"1.0 sacks, 1 interception, 2 fumbles recovered",,MIN,Table_1
+RILB,Ivan Pace,23.0,Rook,11.0,"2.5 sacks, 1 interception, 1 fumble recovered",,MIN,Table_1
+ROLB,D.J. Wonnum,26.0,3,14.0,"8.0 sacks, 0 interceptions, 1 fumble recovered",,MIN,Table_1
+LCB,Akayleb Evans,24.0,1,15.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,MIN,Table_1
+RCB,Byron Murphy,25.0,4,14.0,"0.0 sacks, 3 interceptions, 1 fumble recovered",,MIN,Table_1
+SS,Camryn Bynum,25.0,2,17.0,"0.5 sacks, 2 interceptions, 0 fumbles recovered",,MIN,Table_1
+FS,Harrison Smith,34.0,11,17.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,MIN,Table_1
+DB,Josh Metellus,25.0,3,17.0,,,MIN,Table_1
+,Offensive Starters,,,,,,GNB,Table_1
+QB,Jordan Love,25.0,2,17.0,"372 for 579, 4,159 yards, 32 td, 11 int, & 50 rushes for 247 yards and 4 td",,GNB,Table_1
+RB,Aaron Jones,29.0,6,11.0,"142 rushes for 656 yards, 2 td, & 30 catches for 233 yards and 1 td",,GNB,Table_1
+LH,Elgton Jenkins,28.0,4,15.0,,,GNB,Table_1
+WR,Romeo Doubs,23.0,1,16.0,"59 catches for 674 yards, 8 td",,GNB,Table_1
+WR,Jayden Reed,23.0,Rook,13.0,"64 catches for 793 yards, 8 td, & 11 rushes for 119 yards and 2 td",,GNB,Table_1
+WR,Christian Watson,24.0,1,9.0,"28 catches for 422 yards, 5 td, & 4 rushes for 11 yards and 0 td",,GNB,Table_1
+TE,Luke Musgrave,23.0,Rook,9.0,"34 catches for 352 yards, 1 td",,GNB,Table_1
+LT,Rasheed Walker,23.0,1,15.0,,,GNB,Table_1
+C,Josh Myers,25.0,2,17.0,,,GNB,Table_1
+RT,Zach Tom,24.0,1,17.0,2 fumbles recovered,,GNB,Table_1
+,Defensive Starters,,,,,,GNB,Table_1
+LDE,Kenny Clark*,28.0,7,17.0,"7.5 sacks, 0 interceptions, 0 fumbles recovered",,GNB,Table_1
+NT,Tedarrell Slaton,26.0,2,17.0,,,GNB,Table_1
+LOLB,Preston Smith,31.0,8,17.0,"8.0 sacks, 0 interceptions, 0 fumbles recovered",,GNB,Table_1
+LILB,De'Vondre Campbell,30.0,7,11.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,GNB,Table_1
+RILB,Quay Walker,23.0,1,14.0,"2.5 sacks, 1 interception, 0 fumbles recovered",,GNB,Table_1
+ROLB,Rashan Gary,26.0,4,13.0,"9.0 sacks, 0 interceptions, 2 fumbles recovered",,GNB,Table_1
+LCB,Keisean Nixon+,26.0,4,13.0,"0.5 sacks, 1 interception, 2 fumbles recovered",,GNB,Table_1
+RCB,Carrington Valentine,22.0,Rook,12.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,GNB,Table_1
+SS,Jonathan Owens,28.0,4,11.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,GNB,Table_1
+FS,Rudy Ford,29.0,6,9.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,GNB,Table_1
+DB,Corey Ballentine,27.0,4,6.0,,,GNB,Table_1
+,Offensive Starters,,,,,,CLE,Table_1
+QB,Deshaun Watson,28.0,6,6.0,"105 for 171, 1,115 yards, 7 td, 4 int, & 26 rushes for 142 yards and 1 td",,CLE,Table_1
+RB,Jerome Ford,24.0,1,12.0,"204 rushes for 813 yards, 4 td, & 44 catches for 319 yards and 5 td",,CLE,Table_1
+WR,Amari Cooper*,29.0,8,15.0,"72 catches for 1,250 yards, 5 td",,CLE,Table_1
+WR,Elijah Moore,23.0,2,12.0,"59 catches for 640 yards, 2 td, & 9 rushes for 11 yards and 0 td",,CLE,Table_1
+TE,Harrison Bryant,25.0,3,9.0,"13 catches for 81 yards, 3 td, & 5 rushes for 8 yards and 0 td",,CLE,Table_1
+TE,David Njoku*,27.0,6,16.0,"81 catches for 882 yards, 6 td",,CLE,Table_1
+LT,Geron Christian,27.0,5,9.0,,,CLE,Table_1
+LG,Joel Bitonio*,32.0,9,15.0,,,CLE,Table_1
+C,Ethan Pocic,28.0,6,15.0,,,CLE,Table_1
+RG,Wyatt Teller*,29.0,5,16.0,1 fumble recovered,,CLE,Table_1
+RT,Dawand Jones,22.0,Rook,9.0,1 fumble recovered,,CLE,Table_1
+,Defensive Starters,,,,,,CLE,Table_1
+LDE,Myles Garrett*+,28.0,6,16.0,"14.0 sacks, 0 interceptions, 1 fumble recovered",,CLE,Table_1
+LDT,Dalvin Tomlinson,29.0,6,16.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,CLE,Table_1
+RDT,Jordan Elliott,26.0,3,14.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,CLE,Table_1
+RDE,Za'Darius Smith,31.0,8,16.0,"5.5 sacks, 0 interceptions, 0 fumbles recovered",,CLE,Table_1
+LLB,Jeremiah Owusu-Koramoah*,24.0,2,13.0,"3.5 sacks, 2 interceptions, 0 fumbles recovered",,CLE,Table_1
+MLB,Anthony Walker,28.0,6,12.0,"0.0 sacks, 0 interceptions, 2 fumbles recovered",,CLE,Table_1
+RLB,Sione Takitaki,28.0,4,7.0,"2.0 sacks, 1 interception, 0 fumbles recovered",,CLE,Table_1
+LCB,Greg Newsome II,23.0,2,13.0,"0.5 sacks, 2 interceptions, 0 fumbles recovered",,CLE,Table_1
+RCB,Denzel Ward*,26.0,5,11.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,CLE,Table_1
+SS,Grant Delpit,25.0,2,13.0,"1.5 sacks, 1 interception, 1 fumble recovered",,CLE,Table_1
+FS,Juan Thornhill,28.0,4,11.0,,,CLE,Table_1
+,Offensive Starters,,,,,,TAM,Table_1
+QB,Baker Mayfield*,28.0,5,17.0,"364 for 566, 4,044 yards, 28 td, 10 int, & 62 rushes for 163 yards and 1 td",,TAM,Table_1
+RB,Rachaad White,24.0,1,17.0,"272 rushes for 990 yards, 6 td, & 64 catches for 549 yards and 3 td",,TAM,Table_1
+WR,Mike Evans*,30.0,9,17.0,"79 catches for 1,255 yards, 13 td",,TAM,Table_1
+WR,Chris Godwin,27.0,6,17.0,"83 catches for 1,024 yards, 2 td, & 4 rushes for 38 yards and 1 td",,TAM,Table_1
+WR,Trey Palmer,22.0,Rook,8.0,"39 catches for 385 yards, 3 td, & 3 rushes for 22 yards and 0 td",,TAM,Table_1
+TE,Cade Otton,24.0,1,17.0,"47 catches for 455 yards, 4 td",,TAM,Table_1
+LT,Tristan Wirfs*,24.0,3,17.0,1 fumble recovered,,TAM,Table_1
+LG,Aaron Stinnie,29.0,5,11.0,,,TAM,Table_1
+C,Robert Hainsey,25.0,2,17.0,2 fumbles recovered,,TAM,Table_1
+RG,Cody Mauch,24.0,Rook,17.0,,,TAM,Table_1
+RT,Luke Goedeke,25.0,1,17.0,,,TAM,Table_1
+,Defensive Starters,,,,,,TAM,Table_1
+LDE,Calijah Kancey,22.0,Rook,14.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,TAM,Table_1
+NT,Vita Vea,28.0,5,15.0,"5.5 sacks, 0 interceptions, 0 fumbles recovered",,TAM,Table_1
+RDE,Logan Hall,23.0,1,13.0,"0.5 sacks, 0 interceptions, 2 fumbles recovered",,TAM,Table_1
+LOLB,Shaquil Barrett,31.0,8,16.0,"4.5 sacks, 1 interception, 0 fumbles recovered",,TAM,Table_1
+LILB,Devin White,25.0,4,13.0,"2.5 sacks, 2 interceptions, 0 fumbles recovered",,TAM,Table_1
+RILB,Lavonte David,33.0,11,15.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,TAM,Table_1
+LCB,Jamel Dean,27.0,4,13.0,"0.0 sacks, 0 interceptions, 2 fumbles recovered",,TAM,Table_1
+RCB,Carlton Davis,27.0,5,12.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,TAM,Table_1
+SS,Antoine Winfield Jr.+,25.0,3,17.0,"6.0 sacks, 3 interceptions, 4 fumbles recovered",,TAM,Table_1
+FS,Ryan Neal,28.0,5,13.0,,,TAM,Table_1
+,Offensive Starters,,,,,,CIN,Table_1
+QB,Joe Burrow,27.0,3,10.0,"244 for 365, 2,309 yards, 15 td, 6 int, & 31 rushes for 88 yards and 0 td",,CIN,Table_1
+RB,Joe Mixon,27.0,6,17.0,"257 rushes for 1,034 yards, 9 td, & 52 catches for 376 yards and 3 td",,CIN,Table_1
+WR,Tyler Boyd,29.0,7,13.0,"67 catches for 667 yards, 2 td, & 2 rushes for 11 yards and 0 td",,CIN,Table_1
+WR,Ja'Marr Chase*,23.0,2,16.0,"100 catches for 1,216 yards, 7 td, & 3 rushes for -6 yards and 0 td",,CIN,Table_1
+WR,Tee Higgins,24.0,3,11.0,"42 catches for 656 yards, 5 td",,CIN,Table_1
+TE,Drew Sample,27.0,4,10.0,"22 catches for 163 yards, 2 td",,CIN,Table_1
+LT,Orlando Brown Jr.,27.0,5,17.0,1 fumble recovered,,CIN,Table_1
+LG,Cordell Volson,25.0,1,17.0,,,CIN,Table_1
+C,Ted Karras,30.0,7,17.0,1 fumble recovered,,CIN,Table_1
+RG,Alex Cappa,28.0,5,17.0,,,CIN,Table_1
+RT,Jonah Williams,26.0,3,17.0,1 fumble recovered,,CIN,Table_1
+,Defensive Starters,,,,,,CIN,Table_1
+LDE,Sam Hubbard,28.0,5,15.0,"6.0 sacks, 0 interceptions, 2 fumbles recovered",,CIN,Table_1
+LDT,D.J. Reader,29.0,7,14.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,CIN,Table_1
+RDT,B.J. Hill,28.0,5,17.0,"4.5 sacks, 2 interceptions, 1 fumble recovered",,CIN,Table_1
+RDE,Trey Hendrickson*,29.0,6,17.0,"17.5 sacks, 0 interceptions, 0 fumbles recovered",,CIN,Table_1
+LLB,Logan Wilson,27.0,3,17.0,"1.0 sacks, 4 interceptions, 0 fumbles recovered",,CIN,Table_1
+MLB,Germaine Pratt,27.0,4,17.0,"2.0 sacks, 2 interceptions, 0 fumbles recovered",,CIN,Table_1
+LCB,Cam Taylor-Britt,24.0,1,12.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,CIN,Table_1
+RCB,DJ Turner,23.0,Rook,12.0,"1.0 sacks, 0 interceptions, 1 fumble recovered",,CIN,Table_1
+SS,Nick Scott,28.0,4,10.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,CIN,Table_1
+FS,Daxton Hill,23.0,1,17.0,"1.5 sacks, 2 interceptions, 0 fumbles recovered",,CIN,Table_1
+DB,Mike Hilton,29.0,6,13.0,,,CIN,Table_1
+,Offensive Starters,,,,,,KAN,Table_1
+QB,Patrick Mahomes*,28.0,6,16.0,"401 for 597, 4,183 yards, 27 td, 14 int, & 75 rushes for 389 yards and 0 td",,KAN,Table_1
+RB,Isiah Pacheco,24.0,1,13.0,"205 rushes for 935 yards, 7 td, & 44 catches for 244 yards and 2 td",,KAN,Table_1
+WR,Rashee Rice,23.0,Rook,8.0,"79 catches for 938 yards, 7 td, & 1 rush for -3 yards and 0 td",,KAN,Table_1
+WR,Marquez Valdes-Scantling,29.0,5,10.0,"21 catches for 315 yards, 1 td",,KAN,Table_1
+TE,Noah Gray,24.0,2,10.0,"28 catches for 305 yards, 2 td, & 1 rush for 1 yards and 0 td",,KAN,Table_1
+TE,Travis Kelce*,34.0,10,15.0,"93 catches for 984 yards, 5 td",,KAN,Table_1
+LT,Donovan Smith,30.0,8,12.0,,,KAN,Table_1
+LG,Joe Thuney*+,31.0,7,17.0,,,KAN,Table_1
+C,Creed Humphrey*,24.0,2,17.0,,,KAN,Table_1
+RG,Trey Smith,24.0,2,17.0,,,KAN,Table_1
+RT,Jawaan Taylor,26.0,4,17.0,,,KAN,Table_1
+,Defensive Starters,,,,,,KAN,Table_1
+LDE,George Karlaftis III,22.0,1,16.0,"10.5 sacks, 0 interceptions, 0 fumbles recovered",,KAN,Table_1
+LDT,Chris Jones*+,29.0,7,16.0,"10.5 sacks, 0 interceptions, 0 fumbles recovered",,KAN,Table_1
+RDT,Derrick Nnadi,27.0,5,17.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,KAN,Table_1
+RDE,Michael Danna,26.0,3,16.0,"6.5 sacks, 0 interceptions, 0 fumbles recovered",,KAN,Table_1
+LLB,Willie Gay Jr.,25.0,3,15.0,"1.0 sacks, 1 interception, 3 fumbles recovered",,KAN,Table_1
+MLB,Nick Bolton,23.0,2,8.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,KAN,Table_1
+RLB,Leo Chenal,23.0,1,10.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,KAN,Table_1
+LCB,Trent McDuffie+,23.0,1,16.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,KAN,Table_1
+RCB,L'Jarius Sneed,26.0,3,16.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,KAN,Table_1
+SS,Justin Reid,26.0,5,16.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,KAN,Table_1
+FS,Bryan Cook,24.0,1,12.0,"0.0 sacks, 1 interception, 2 fumbles recovered",,KAN,Table_1
+,Offensive Starters,,,,,,JAX,Table_1
+QB,Trevor Lawrence,24.0,2,16.0,"370 for 564, 4,016 yards, 21 td, 14 int, & 70 rushes for 339 yards and 4 td",,JAX,Table_1
+RB,Travis Etienne,24.0,1,17.0,"267 rushes for 1,008 yards, 11 td, & 58 catches for 476 yards and 1 td",,JAX,Table_1
+WR,Christian Kirk,27.0,5,12.0,"57 catches for 787 yards, 3 td, & 1 rush for 6 yards and 0 td",,JAX,Table_1
+WR,Calvin Ridley,29.0,5,17.0,"76 catches for 1,016 yards, 8 td, & 9 rushes for 23 yards and 0 td",,JAX,Table_1
+TE,Evan Engram*,29.0,6,15.0,"114 catches for 963 yards, 4 td",,JAX,Table_1
+TE,Luke Farrell,26.0,2,8.0,"13 catches for 155 yards, 0 td",,JAX,Table_1
+LT,Cam Robinson,28.0,6,9.0,,,JAX,Table_1
+LG,Tyler Shatley,32.0,9,6.0,,,JAX,Table_1
+C,Luke Fortner,25.0,1,17.0,,,JAX,Table_1
+RG,Brandon Scherff,32.0,8,17.0,,,JAX,Table_1
+RT,Anton Harrison,21.0,Rook,17.0,,,JAX,Table_1
+,Defensive Starters,,,,,,JAX,Table_1
+LDE,Roy Robertson-Harris,30.0,6,17.0,"3.5 sacks, 0 interceptions, 0 fumbles recovered",,JAX,Table_1
+NT,Folorunso Fatukasi,28.0,5,16.0,,,JAX,Table_1
+RDE,Adam Gotsis,31.0,7,7.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,JAX,Table_1
+LOLB,Josh Hines-Allen*,26.0,4,17.0,"17.5 sacks, 1 interception, 0 fumbles recovered",,JAX,Table_1
+LILB,Foyesade Oluokun,28.0,5,17.0,"2.5 sacks, 1 interception, 3 fumbles recovered",,JAX,Table_1
+RILB,Devin Lloyd,25.0,1,15.0,"0.0 sacks, 0 interceptions, 2 fumbles recovered",,JAX,Table_1
+ROLB,Travon Walker,23.0,1,17.0,"10.0 sacks, 0 interceptions, 1 fumble recovered",,JAX,Table_1
+LCB,Darious Williams,30.0,5,17.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,JAX,Table_1
+RCB,Tyson Campbell,23.0,2,11.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,JAX,Table_1
+SS,Rayshawn Jenkins,29.0,6,17.0,"1.0 sacks, 2 interceptions, 0 fumbles recovered",,JAX,Table_1
+FS,Andre Cisco,23.0,2,15.0,"0.5 sacks, 4 interceptions, 0 fumbles recovered",,JAX,Table_1
+,Offensive Starters,,,,,,SFO,Table_1
+QB,Brock Purdy*,24.0,1.0,16.0,"308 for 444, 4,280 yards, 31 td, 11 int, & 39 rushes for 144 yards and 2 td",,SFO,Table_1
+RB,Christian McCaffrey*+,27.0,6.0,16.0,"272 rushes for 1,459 yards, 14 td, & 67 catches for 564 yards and 7 td",,SFO,Table_1
+FB,Kyle Juszczyk*+,32.0,10.0,16.0,"5 rushes for 6 yards, 0 td, & 14 catches for 119 yards and 2 td",,SFO,Table_1
+WR,Brandon Aiyuk,25.0,3.0,16.0,"75 catches for 1,342 yards, 7 td",,SFO,Table_1
+WR,Deebo Samuel,27.0,4.0,15.0,"60 catches for 892 yards, 7 td, & 37 rushes for 225 yards and 5 td",,SFO,Table_1
+TE,George Kittle*+,30.0,6.0,16.0,"65 catches for 1,020 yards, 6 td, & 1 rush for 2 yards and 0 td",,SFO,Table_1
+LT,Trent Williams*+,35.0,13.0,15.0,,,SFO,Table_1
+LG,Aaron Banks,26.0,2.0,14.0,,,SFO,Table_1
+C,Jake Brendel,31.0,7.0,17.0,,,SFO,Table_1
+RG,Spencer Burford,23.0,1.0,13.0,,,SFO,Table_1
+RT,Colton McKivitz,27.0,3.0,17.0,,,SFO,Table_1
+,Defensive Starters,,,,,,SFO,Table_1
+LDE,Clelin Ferrell,26.0,4.0,17.0,"3.5 sacks, 0 interceptions, 1 fumble recovered",,SFO,Table_1
+LDT,Arik Armstead,30.0,8.0,12.0,"5.0 sacks, 0 interceptions, 0 fumbles recovered",,SFO,Table_1
+RDT,Javon Hargrave*,30.0,7.0,16.0,"7.0 sacks, 0 interceptions, 0 fumbles recovered",,SFO,Table_1
+RDE,Nick Bosa*,26.0,4.0,17.0,"10.5 sacks, 0 interceptions, 1 fumble recovered",,SFO,Table_1
+LLB,Ambry Thomas,24.0,2.0,6.0,"0.0 sacks, 1 interception, 1 fumble recovered",,SFO,Table_1
+MLB,Fred Warner*+,27.0,5.0,17.0,"2.5 sacks, 4 interceptions, 0 fumbles recovered",,SFO,Table_1
+RLB,Dre Greenlaw,26.0,4.0,15.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,SFO,Table_1
+LCB,Charvarius Ward*,27.0,5.0,17.0,"0.0 sacks, 5 interceptions, 0 fumbles recovered",,SFO,Table_1
+RCB,Deommodore Lenoir,24.0,2.0,17.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,SFO,Table_1
+SS,Talanoa Hufanga,24.0,2.0,10.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,SFO,Table_1
+FS,Tashaun Gipson,33.0,11.0,16.0,"1.0 sacks, 1 interception, 0 fumbles recovered",,SFO,Table_1
+,Offensive Starters,,,,,,OTI,Table_1
+QB,Will Levis,24.0,Rook,9.0,"149 for 255, 1,808 yards, 8 td, 4 int, & 25 rushes for 57 yards and 1 td",,OTI,Table_1
+RB,Derrick Henry*,29.0,7,17.0,"280 rushes for 1,167 yards, 12 td, & 28 catches for 214 yards and 0 td",,OTI,Table_1
+WR,Treylon Burks,23.0,1,9.0,"16 catches for 221 yards, 0 td, & 5 rushes for 18 yards and 0 td",,OTI,Table_1
+WR,DeAndre Hopkins,31.0,10,16.0,"75 catches for 1,057 yards, 7 td, & 2 rushes for 9 yards and 0 td",,OTI,Table_1
+TE,Chigoziem Okonkwo,24.0,1,11.0,"54 catches for 528 yards, 1 td, & 2 rushes for 6 yards and 0 td",,OTI,Table_1
+TE,Trevon Wesco,28.0,4,10.0,"1 catch for 21 yards, 0 td",,OTI,Table_1
+LT,Andre Dillard,28.0,4,10.0,,,OTI,Table_1
+LG,Peter Skoronski,22.0,Rook,14.0,,,OTI,Table_1
+C,Aaron Brewer,26.0,3,17.0,,,OTI,Table_1
+RG,Daniel Brunskill,29.0,4,14.0,,,OTI,Table_1
+RT,Chris Hubbard,32.0,9,9.0,,,OTI,Table_1
+,Defensive Starters,,,,,,OTI,Table_1
+LDE,Denico Autry,33.0,9,14.0,"11.5 sacks, 0 interceptions, 0 fumbles recovered",,OTI,Table_1
+LDT,Teair Tart,26.0,3,9.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,OTI,Table_1
+RDT,Jeffery Simmons,26.0,4,12.0,"5.5 sacks, 0 interceptions, 1 fumble recovered",,OTI,Table_1
+RDE,Kyle Peko,30.0,7,10.0,,,OTI,Table_1
+LILB,Azeez Al-Shaair,26.0,4,17.0,"2.0 sacks, 0 interceptions, 1 fumble recovered",,OTI,Table_1
+RILB,Jack Gibbens,25.0,1,13.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,OTI,Table_1
+ROLB,Harold Landry,27.0,5,10.0,"10.5 sacks, 0 interceptions, 0 fumbles recovered",,OTI,Table_1
+LCB,Sean Murphy-Bunting,26.0,4,14.0,"0.0 sacks, 2 interceptions, 1 fumble recovered",,OTI,Table_1
+SS,K'Von Wallace,26.0,3,7.0,,,OTI,Table_1
+FS,Amani Hooker,25.0,4,13.0,"0.0 sacks, 1 interception, 1 fumble recovered",,OTI,Table_1
+,Offensive Starters,,,,,,SEA,Table_1
+QB,Geno Smith*,33.0,10,15.0,"323 for 499, 3,624 yards, 20 td, 9 int, & 37 rushes for 155 yards and 1 td",,SEA,Table_1
+WR,Tyler Lockett,31.0,8,17.0,"79 catches for 894 yards, 5 td",,SEA,Table_1
+WR,D.K. Metcalf*,26.0,4,16.0,"66 catches for 1,114 yards, 8 td",,SEA,Table_1
+TE,Will Dissly,27.0,5,14.0,"17 catches for 172 yards, 1 td",,SEA,Table_1
+TE,Noah Fant,26.0,4,17.0,"32 catches for 414 yards, 0 td",,SEA,Table_1
+LT,Charles Cross,23.0,1,14.0,,,SEA,Table_1
+LG,Damien Lewis,26.0,3,16.0,,,SEA,Table_1
+C,Evan Brown,27.0,4,16.0,,,SEA,Table_1
+RG,Anthony Bradford,22.0,Rook,10.0,,,SEA,Table_1
+RT,Abraham Lucas,25.0,1,6.0,,,SEA,Table_1
+,Defensive Starters,,,,,,SEA,Table_1
+LDE,Dre'Mont Jones,26.0,4,16.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,SEA,Table_1
+NT,Jarran Reed,31.0,7,16.0,"7.0 sacks, 0 interceptions, 1 fumble recovered",,SEA,Table_1
+RDE,Leonard Williams,29.0,8,10.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,SEA,Table_1
+LOLB,Uchenna Nwosu,27.0,5,6.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,SEA,Table_1
+LILB,Bobby Wagner*,33.0,11,16.0,"3.5 sacks, 0 interceptions, 1 fumble recovered",,SEA,Table_1
+RILB,Jordyn Brooks,26.0,3,16.0,"4.5 sacks, 1 interception, 1 fumble recovered",,SEA,Table_1
+ROLB,Boye Mafe,25.0,1,16.0,"9.0 sacks, 0 interceptions, 2 fumbles recovered",,SEA,Table_1
+LCB,Devon Witherspoon*,23.0,Rook,13.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,SEA,Table_1
+SS,Julian Love*,25.0,4,12.0,"0.0 sacks, 4 interceptions, 1 fumble recovered",,SEA,Table_1
+FS,Quandre Diggs,30.0,8,17.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,SEA,Table_1
+,Offensive Starters,,,,,,SDG,Table_1
+QB,Justin Herbert,25.0,3,13.0,"297 for 456, 3,134 yards, 20 td, 7 int, & 52 rushes for 228 yards and 3 td",,SDG,Table_1
+RB,Austin Ekeler,28.0,6,14.0,"179 rushes for 628 yards, 5 td, & 51 catches for 436 yards and 1 td",,SDG,Table_1
+WR,Keenan Allen*,31.0,10,13.0,"108 catches for 1,243 yards, 7 td, & 2 rushes for 6 yards and 0 td",,SDG,Table_1
+WR,Quentin Johnston,22.0,Rook,10.0,"38 catches for 431 yards, 2 td, & 3 rushes for 9 yards and 0 td",,SDG,Table_1
+TE,Gerald Everett,29.0,6,12.0,"51 catches for 411 yards, 3 td, & 3 rushes for 10 yards and 0 td",,SDG,Table_1
+TE,Donald Parham,26.0,3,8.0,"27 catches for 285 yards, 4 td",,SDG,Table_1
+LT,Rashawn Slater,24.0,2,17.0,,,SDG,Table_1
+LG,Zion Johnson,24.0,1,15.0,,,SDG,Table_1
+C,Will Clapp,28.0,5,11.0,,,SDG,Table_1
+RG,Jamaree Salyer,23.0,1,17.0,,,SDG,Table_1
+RT,Trey Pipkins,27.0,4,17.0,,,SDG,Table_1
+,Defensive Starters,,,,,,SDG,Table_1
+LDE,Sebastian Joseph-Day,28.0,4,14.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,SDG,Table_1
+NT,Nick Williams,33.0,9,6.0,"1.0 sacks, 0 interceptions, 2 fumbles recovered",,SDG,Table_1
+RDE,Austin Johnson,29.0,7,17.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,SDG,Table_1
+LOLB,Khalil Mack*,32.0,9,17.0,"17.0 sacks, 0 interceptions, 0 fumbles recovered",,SDG,Table_1
+LILB,Eric Kendricks,31.0,8,14.0,"3.5 sacks, 0 interceptions, 0 fumbles recovered",,SDG,Table_1
+RILB,Kenneth Murray,25.0,3,15.0,"3.0 sacks, 1 interception, 0 fumbles recovered",,SDG,Table_1
+ROLB,Tuli Tuipulotu,21.0,Rook,11.0,"4.5 sacks, 0 interceptions, 1 fumble recovered",,SDG,Table_1
+LCB,Asante Samuel Jr.,24.0,2,16.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,SDG,Table_1
+RCB,Michael Davis,28.0,6,13.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,SDG,Table_1
+SS,Alohi Gilman,26.0,3,14.0,"0.0 sacks, 2 interceptions, 2 fumbles recovered",,SDG,Table_1
+FS,Derwin James,27.0,5,16.0,"2.0 sacks, 1 interception, 2 fumbles recovered",,SDG,Table_1
+,Offensive Starters,,,,,,NOR,Table_1
+QB,Derek Carr,32.0,9.0,17.0,"375 for 548, 3,878 yards, 25 td, 8 int, & 32 rushes for 40 yards and 0 td",,NOR,Table_1
+RB,Alvin Kamara,28.0,6.0,12.0,"180 rushes for 694 yards, 5 td, & 75 catches for 466 yards and 1 td",,NOR,Table_1
+WR,Chris Olave,23.0,1.0,11.0,"87 catches for 1,123 yards, 5 td",,NOR,Table_1
+WR,Rashid Shaheed*+,25.0,1.0,8.0,"46 catches for 719 yards, 5 td, & 7 rushes for 37 yards and 0 td",,NOR,Table_1
+TE,Juwan Johnson,27.0,3.0,11.0,"37 catches for 368 yards, 4 td",,NOR,Table_1
+TE,Foster Moreau,26.0,4.0,10.0,"21 catches for 193 yards, 1 td",,NOR,Table_1
+LT,Andrus Peat,30.0,8.0,12.0,,,NOR,Table_1
+LG,James Hurst,32.0,9.0,15.0,1 fumble recovered,,NOR,Table_1
+C,Erik McCoy*,26.0,4.0,17.0,,,NOR,Table_1
+RG,Cesar Ruiz,24.0,3.0,16.0,1 fumble recovered,,NOR,Table_1
+RT,Ryan Ramczyk,29.0,6.0,12.0,,,NOR,Table_1
+,Defensive Starters,,,,,,NOR,Table_1
+LDE,Cameron Jordan,34.0,12.0,17.0,"2.0 sacks, 0 interceptions, 1 fumble recovered",,NOR,Table_1
+LDT,Khalen Saunders,27.0,4.0,17.0,,,NOR,Table_1
+RDT,Nathan Shepherd,30.0,5.0,17.0,"3.5 sacks, 0 interceptions, 0 fumbles recovered",,NOR,Table_1
+RDE,Carl Granderson,27.0,4.0,17.0,"8.5 sacks, 0 interceptions, 1 fumble recovered",,NOR,Table_1
+LLB,Pete Werner,24.0,2.0,16.0,"0.5 sacks, 1 interception, 2 fumbles recovered",,NOR,Table_1
+MLB,Demario Davis*,34.0,11.0,17.0,"6.5 sacks, 0 interceptions, 1 fumble recovered",,NOR,Table_1
+LCB,Paulson Adebo,24.0,2.0,15.0,"0.0 sacks, 4 interceptions, 2 fumbles recovered",,NOR,Table_1
+RCB,Marshon Lattimore,27.0,6.0,10.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,NOR,Table_1
+SS,Marcus Maye,30.0,6.0,7.0,"1.0 sacks, 2 interceptions, 0 fumbles recovered",,NOR,Table_1
+FS,Tyrann Mathieu,31.0,10.0,17.0,"0.0 sacks, 4 interceptions, 0 fumbles recovered",,NOR,Table_1
+DB,Alontae Taylor,25.0,1.0,13.0,,,NOR,Table_1
+,Offensive Starters,,,,,,CRD,Table_1
+QB,Kyler Murray,26.0,4,8.0,"176 for 268, 1,799 yards, 10 td, 5 int, & 44 rushes for 244 yards and 3 td",,CRD,Table_1
+RB,James Conner,28.0,6,13.0,"208 rushes for 1,040 yards, 7 td, & 27 catches for 165 yards and 2 td",,CRD,Table_1
+WR,Marquise Brown,26.0,4,14.0,"51 catches for 574 yards, 4 td, & 2 rushes for 23 yards and 0 td",,CRD,Table_1
+WR,Rondale Moore,23.0,2,8.0,"40 catches for 352 yards, 1 td, & 28 rushes for 178 yards and 1 td",,CRD,Table_1
+WR,Michael Wilson,23.0,Rook,12.0,"38 catches for 565 yards, 3 td",,CRD,Table_1
+TE,Trey McBride,24.0,1,12.0,"81 catches for 825 yards, 3 td",,CRD,Table_1
+LT,D.J. Humphries,30.0,7,15.0,,,CRD,Table_1
+LG,Elijah Wilkinson,28.0,6,9.0,1 fumble recovered,,CRD,Table_1
+C,Hjalte Froholdt,27.0,3,17.0,1 fumble recovered,,CRD,Table_1
+RG,Will Hernandez,28.0,5,17.0,,,CRD,Table_1
+RT,Paris Johnson,22.0,Rook,17.0,1 fumble recovered,,CRD,Table_1
+,Defensive Starters,,,,,,CRD,Table_1
+LDE,Kevin Strong,27.0,4,11.0,"2.5 sacks, 0 interceptions, 1 fumble recovered",,CRD,Table_1
+NT,Leki Fotu,25.0,3,9.0,"2.5 sacks, 0 interceptions, 0 fumbles recovered",,CRD,Table_1
+RDE,Jonathan Ledbetter,26.0,4,12.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,CRD,Table_1
+LOLB,Dennis Gardeck,29.0,5,8.0,"6.0 sacks, 0 interceptions, 1 fumble recovered",,CRD,Table_1
+LILB,Kyzir White,27.0,5,11.0,"2.0 sacks, 1 interception, 0 fumbles recovered",,CRD,Table_1
+RILB,Josh Woods,27.0,4,7.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,CRD,Table_1
+ROLB,Zaven Collins,24.0,2,17.0,"3.5 sacks, 1 interception, 1 fumble recovered",,CRD,Table_1
+LCB,Antonio Hamilton,30.0,7,9.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,CRD,Table_1
+RCB,Marco Wilson,24.0,2,11.0,,,CRD,Table_1
+SS,Jalen Thompson,25.0,4,15.0,"1.0 sacks, 4 interceptions, 0 fumbles recovered",,CRD,Table_1
+FS,Budda Baker*,27.0,6,12.0,,,CRD,Table_1
+,Offensive Starters,,,,,,DEN,Table_1
+QB,Russell Wilson,35.0,11,15.0,"297 for 447, 3,070 yards, 26 td, 8 int, & 80 rushes for 341 yards and 3 td",,DEN,Table_1
+RB,Javonte Williams,23.0,2,13.0,"217 rushes for 774 yards, 3 td, & 47 catches for 228 yards and 2 td",,DEN,Table_1
+WR,Jerry Jeudy,24.0,3,11.0,"54 catches for 758 yards, 2 td",,DEN,Table_1
+WR,Marvin Mims*,21.0,Rook,7.0,"22 catches for 377 yards, 1 td, & 9 rushes for 30 yards and 0 td",,DEN,Table_1
+WR,Courtland Sutton,28.0,5,14.0,"59 catches for 772 yards, 10 td",,DEN,Table_1
+TE,Adam Trautman,26.0,3,12.0,"22 catches for 204 yards, 3 td",,DEN,Table_1
+LT,Garett Bolles,31.0,6,17.0,,,DEN,Table_1
+LG,Ben Powers,27.0,4,17.0,,,DEN,Table_1
+C,Lloyd Cushenberry III,26.0,3,17.0,,,DEN,Table_1
+RG,Quinn Meinerz,25.0,2,17.0,1 fumble recovered,,DEN,Table_1
+RT,Mike McGlinchey,29.0,5,16.0,,,DEN,Table_1
+,Defensive Starters,,,,,,DEN,Table_1
+LDE,Zach Allen,26.0,4,17.0,"5.0 sacks, 0 interceptions, 0 fumbles recovered",,DEN,Table_1
+NT,Mike Purcell,32.0,9,10.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,DEN,Table_1
+RDE,D.J. Jones,28.0,6,16.0,"2.0 sacks, 0 interceptions, 2 fumbles recovered",,DEN,Table_1
+LOLB,Baron Browning,24.0,2,9.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,DEN,Table_1
+LILB,Alex Singleton,30.0,4,16.0,"2.0 sacks, 0 interceptions, 2 fumbles recovered",,DEN,Table_1
+RILB,Josey Jewell,29.0,5,15.0,"3.0 sacks, 0 interceptions, 3 fumbles recovered",,DEN,Table_1
+ROLB,Jonathon Cooper,25.0,2,17.0,"8.5 sacks, 1 interception, 2 fumbles recovered",,DEN,Table_1
+LCB,Patrick Surtain II*,23.0,2,17.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,DEN,Table_1
+RCB,Fabian Moreau,29.0,6,11.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,DEN,Table_1
+SS,Kareem Jackson,35.0,13,8.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,DEN,Table_1
+FS,Justin Simmons*,30.0,7,15.0,"1.0 sacks, 3 interceptions, 1 fumble recovered",,DEN,Table_1
+,Offensive Starters,,,,,,CLT,Table_1
+QB,Gardner Minshew II*,27.0,4,13.0,"305 for 490, 3,305 yards, 15 td, 9 int, & 34 rushes for 100 yards and 3 td",,CLT,Table_1
+RB,Zack Moss,26.0,3,8.0,"183 rushes for 794 yards, 5 td, & 27 catches for 192 yards and 2 td",,CLT,Table_1
+WR,Josh Downs,22.0,Rook,9.0,"68 catches for 771 yards, 2 td",,CLT,Table_1
+WR,Alec Pierce,23.0,1,16.0,"32 catches for 514 yards, 2 td",,CLT,Table_1
+WR,Michael Pittman Jr.,26.0,3,15.0,"109 catches for 1,152 yards, 4 td",,CLT,Table_1
+LT,Bernhard Raimann,26.0,1,15.0,,,CLT,Table_1
+LG,Quenton Nelson*,27.0,5,17.0,,,CLT,Table_1
+C,Ryan Kelly*,30.0,7,14.0,,,CLT,Table_1
+RG,Will Fries,25.0,2,17.0,,,CLT,Table_1
+RT,Braden Smith,27.0,5,10.0,,,CLT,Table_1
+,Defensive Starters,,,,,,CLT,Table_1
+LDE,Kwity Paye,25.0,2,16.0,"8.5 sacks, 0 interceptions, 2 fumbles recovered",,CLT,Table_1
+DT,DeForest Buckner*,29.0,7,16.0,,,CLT,Table_1
+NT,Grover Stewart,30.0,6,11.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,CLT,Table_1
+RDE,Samson Ebukam,28.0,6,17.0,"9.5 sacks, 0 interceptions, 0 fumbles recovered",,CLT,Table_1
+LLB,Shaquille Leonard,28.0,5,9.0,,,CLT,Table_1
+MLB,Zaire Franklin,27.0,5,16.0,"1.5 sacks, 0 interceptions, 0 fumbles recovered",,CLT,Table_1
+RLB,E.J. Speed,28.0,4,11.0,"1.0 sacks, 0 interceptions, 0 fumbles recovered",,CLT,Table_1
+LCB,Darrell Baker,25.0,1,6.0,,,CLT,Table_1
+RCB,Kenny Moore,28.0,6,16.0,"1.5 sacks, 3 interceptions, 0 fumbles recovered",,CLT,Table_1
+SS,Julian Blackmon,25.0,3,15.0,"0.0 sacks, 4 interceptions, 2 fumbles recovered",,CLT,Table_1
+FS,Rodney Thomas II,25.0,1,15.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,CLT,Table_1
+,Offensive Starters,,,,,,DAL,Table_1
+QB,Dak Prescott*,30.0,7.0,17.0,"410 for 590, 4,516 yards, 36 td, 9 int, & 55 rushes for 242 yards and 2 td",,DAL,Table_1
+RB,Tony Pollard,26.0,4.0,17.0,"252 rushes for 1,005 yards, 6 td, & 55 catches for 311 yards and 0 td",,DAL,Table_1
+WR,Brandin Cooks,30.0,9.0,15.0,"54 catches for 657 yards, 8 td, & 5 rushes for 35 yards and 0 td",,DAL,Table_1
+WR,Michael Gallup,27.0,5.0,13.0,"34 catches for 418 yards, 2 td",,DAL,Table_1
+WR,CeeDee Lamb*+,24.0,3.0,17.0,"135 catches for 1,749 yards, 12 td, & 14 rushes for 113 yards and 2 td",,DAL,Table_1
+TE,Jake Ferguson*,24.0,1.0,16.0,"71 catches for 761 yards, 5 td",,DAL,Table_1
+LT,Tyron Smith,33.0,12.0,13.0,,,DAL,Table_1
+LG,Tyler Smith*,22.0,1.0,14.0,,,DAL,Table_1
+C,Tyler Biadasz,26.0,3.0,16.0,2 fumbles recovered,,DAL,Table_1
+RG,Zack Martin*+,33.0,9.0,15.0,,,DAL,Table_1
+RT,Terence Steele,26.0,3.0,17.0,1 fumble recovered,,DAL,Table_1
+,Defensive Starters,,,,,,DAL,Table_1
+LDE,DeMarcus Lawrence*,31.0,9.0,17.0,"4.0 sacks, 0 interceptions, 0 fumbles recovered",,DAL,Table_1
+LDT,Johnathan Hankins,31.0,10.0,14.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,DAL,Table_1
+RDT,Osa Odighizuwa,25.0,2.0,17.0,"3.0 sacks, 0 interceptions, 0 fumbles recovered",,DAL,Table_1
+RDE,Micah Parsons*,24.0,2.0,17.0,"14.0 sacks, 0 interceptions, 1 fumble recovered",,DAL,Table_1
+LLB,Damone Clark,23.0,1.0,17.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,DAL,Table_1
+RLB,Leighton Vander Esch,26.0,5.0,5.0,"0.0 sacks, 0 interceptions, 1 fumble recovered",,DAL,Table_1
+LCB,Stephon Gilmore,33.0,11.0,17.0,"0.0 sacks, 2 interceptions, 0 fumbles recovered",,DAL,Table_1
+RCB,DaRon Bland*+,24.0,1.0,15.0,"0.0 sacks, 9 interceptions, 0 fumbles recovered",,DAL,Table_1
+SS,Malik Hooker,27.0,6.0,15.0,"0.0 sacks, 1 interception, 1 fumble recovered",,DAL,Table_1
+FS,Donovan Wilson,28.0,4.0,13.0,"0.0 sacks, 2 interceptions, 2 fumbles recovered",,DAL,Table_1
+DB,Markquese Bell,24.0,1.0,8.0,,,DAL,Table_1
+,Offensive Starters,,,,,,RAM,Table_1
+QB,Matthew Stafford*,35.0,14,15.0,"326 for 521, 3,965 yards, 24 td, 11 int, & 21 rushes for 65 yards and 0 td",,RAM,Table_1
+RB,Kyren Williams*,23.0,1,11.0,"228 rushes for 1,144 yards, 12 td, & 32 catches for 206 yards and 3 td",,RAM,Table_1
+WR,Tutu Atwell,24.0,2,14.0,"39 catches for 483 yards, 3 td, & 5 rushes for 31 yards and 0 td",,RAM,Table_1
+WR,Cooper Kupp,30.0,6,12.0,"59 catches for 737 yards, 5 td, & 1 rush for -3 yards and 0 td",,RAM,Table_1
+WR,Puka Nacua*,22.0,Rook,17.0,"105 catches for 1,486 yards, 6 td, & 12 rushes for 89 yards and 0 td",,RAM,Table_1
+TE,Tyler Higbee,30.0,7,15.0,"47 catches for 495 yards, 2 td",,RAM,Table_1
+LT,Alaric Jackson,25.0,2,15.0,,,RAM,Table_1
+LG,Steve Avila,24.0,Rook,17.0,,,RAM,Table_1
+C,Coleman Shelton,28.0,4,17.0,,,RAM,Table_1
+RG,Kevin Dotson,27.0,3,14.0,,,RAM,Table_1
+RT,Rob Havenstein,31.0,8,14.0,,,RAM,Table_1
+,Defensive Starters,,,,,,RAM,Table_1
+LDE,Jonah Williams,28.0,2,16.0,"2.0 sacks, 0 interceptions, 0 fumbles recovered",,RAM,Table_1
+DT,Aaron Donald*+,32.0,9,16.0,,,RAM,Table_1
+NT,Bobby Brown,23.0,2,13.0,"0.5 sacks, 0 interceptions, 0 fumbles recovered",,RAM,Table_1
+LOLB,Michael Hoecht,26.0,2,17.0,"6.0 sacks, 0 interceptions, 0 fumbles recovered",,RAM,Table_1
+LILB,Ernest Jones,24.0,2,15.0,"4.5 sacks, 0 interceptions, 0 fumbles recovered",,RAM,Table_1
+RILB,Troy Reeder,29.0,4,6.0,,,RAM,Table_1
+ROLB,Byron Young,25.0,Rook,16.0,"8.0 sacks, 0 interceptions, 1 fumble recovered",,RAM,Table_1
+LCB,Derion Kendrick,23.0,1,12.0,"0.0 sacks, 1 interception, 0 fumbles recovered",,RAM,Table_1
+RCB,Ahkello Witherspoon,28.0,6,17.0,"0.0 sacks, 3 interceptions, 2 fumbles recovered",,RAM,Table_1
+SS,Jordan Fuller,25.0,3,17.0,"0.0 sacks, 3 interceptions, 0 fumbles recovered",,RAM,Table_1
+FS,Russ Yeast,24.0,1,9.0,,,RAM,Table_1
